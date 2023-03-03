@@ -7,6 +7,14 @@
       description: 下载Instagram照片,视频,故事,IGTV,REELS
       url: https://sssinstagram.com/zh
       logo: https://sssinstagram.com/favicon/favicon-48x48.png
+    - url: https://www.upyunso.com
+      description: 阿里云
+      title: UP云搜
+      logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/12download.svg
+    - url: https://fontawesome.com.cn/faicons/
+      title: fontawesome
+      description: fontawesome中文图标库
+      logo: fontawesome.ico
     - url: https://xbeibeix.com/api/bilibili/
       description: B站视频下载
       title: 贝贝BiliBili
@@ -31,10 +39,6 @@
       description: 在线即时翻译、免费AI翻译、文档文本翻译、人工翻译、网页翻译
       title: 有道翻译
       logo: https://shared-https.ydstatic.com/images/favicon.ico
-    - url: https://www.upyunso.com
-      description: 阿里云
-      title: UP云搜
-      logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/12download.svg
     - url: https://drive.google.com/drive/my-drive
       description: Google云端硬盘
       title: Google
@@ -50,7 +54,7 @@
     - url: https://app.clipchamp.com/
       description: 免费视频剪辑
       title: Clipchamp
-      logo: 
+      logo: clipchamp.svg
     - url: https://www.douban.com/
       description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
       title: 豆瓣

@@ -22,7 +22,7 @@ hasCJKLanguage        = true
     defaultLogo   = "assets/images/logos/default.webp"             # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
 
 [params.seo]    
-    baiduhmid     = 'efccc04cb44fc49faddac5876180b369'             # 百度统计 hm.src 的 ID
+    baiduhmid     = 'b370cce61c70fda5badafe6797f55159'             # 百度统计 hm.src 的 ID
     baiduSiteVer  = 'codeva-cCAOSG8MBO'                            # 百度HTML标签验证(baidu-site-verification)
 
 [params.qweather]
