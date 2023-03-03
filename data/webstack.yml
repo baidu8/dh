@@ -91,6 +91,36 @@
           url: https://www.2yjw.com/
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220427234519.png
           description: 绅士Go影剧网_热门韩剧_热门电视剧_免费在线观看
+    - term: 视频工具
+      links:
+        - url: https://xbeibeix.com/api/bilibili/
+          description: B站视频下载
+          title: 贝贝BiliBili
+          logo: https://www.bilibili.com/favicon.ico
+        - title: SSS
+          description: 下载Instagram照片,视频,故事,IGTV,REELS
+          url: https://sssinstagram.com/zh
+          logo: https://sssinstagram.com/favicon/favicon-48x48.png
+        - url: https://app.clipchamp.com/
+          description: 免费视频剪辑
+          title: Clipchamp
+          logo: https://app.clipchamp.com/favicon.svg
+        - url: https://www.4kdownload.com/zh-cn/
+          description: 从YouTube下载视频、音频、字幕，从Instagram下载照片
+          title: 4k下载器
+          logo: https://static.4kdownload.com/main/img/apple-touch-icon-57x57.5fc374e89554.png
+        - url: https://webtor.io/
+          description: 🧱种子磁力在线预览下载
+          title: 磁力在线
+          logo: https://s2.loli.net/2022/05/01/F4ud2RiSHCpmKoI.png
+        - url: https://yt1s.io/zh-cn
+          description: 🧱在线youtube视频下载器
+          title: Youtube 视频下载器
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/ap39dhfx.png
+        - url: https://youtube4kdownloader.com/zh9/
+          description: 🧱YouTube, Facebook, Instagram视频与转换
+          title: Youtube 视频下载器
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/ewqvmdr10.png
     - term: 视频下载
       links:
         - title: 音范丝
@@ -231,7 +261,7 @@
           url: http://www.ddzimu.com/
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/baibaiba.jpg
           description: 字幕聚合下载站
-    - term: 视频字幕
+    - term: 视频解析
       links:
         - title: ok解析
           url: https://okjx.cc/?url=
@@ -434,9 +464,51 @@
           url: https://chewan.org/
           logo: https://chewan.org/favicon.png
           description: 东方Project,车万Project,东方,车万,博丽灵梦,大小姐,二小姐,吸血鬼,红魔馆,红魔乡,幻想乡,同人,魔理莎
+    - term: 图片工具
+      links:
+        - url: https://vocalremover.org/
+          description: 背景音乐分离
+          title: VocalreMover
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: https://zh.recompressor.com/
+          description: 图片压缩
+          title: Recompressor
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: https://www.doutub.com/picEdit
+          description: 在线制作表情包
+          title: 表情包制作
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - title: tinypng
+          url: https://tinypng.com/
+          logo: tinypng.png
+          description: Optimize your images with a perfect balance in quality and file size.
+        - title: goqr
+          url: http://goqr.me/
+          logo: goqr.png
+          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
+        - title: ezgif
+          url: https://ezgif.com
+          logo: ezgif.png
+          description: simple online GIF maker and toolset for basic animated GIF editing.
+        - title: Android 9 patch
+          url: http://inloop.github.io/shadow4android/
+          logo: Android9patch.png
+          description: Android 9-patch shadow generator fully customizable shadows.
+        - title: screen sizes
+          url: http://screensiz.es/
+          logo: screensizes.png
+          description: Viewport Sizes and Pixel Densities for Popular Devices.
+        - title: svgomg
+          url: https://jakearchibald.github.io/svgomg/
+          logo: svgomg.png
+          description: SVG 在线压缩平台。
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: gaoding.png
+          description: 免费在线抠图软件,图片快速换背景-抠白底图。
 
 - taxonomy: 云盘相关
-  icon: fas fa-flask fa-lg
+  icon: fas fa-cloud-download-alt fa-lg
   list:
     - term: 云端网盘
       links:
@@ -521,70 +593,308 @@
     - term: 盘搜工具
       links:
         - url: https://www.upyunso.com
-          description: 阿里云
+          description: 阿里云搜
           title: UP云搜
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: https://www.yubaipan.com
           description: 
           title: 玉白盘
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: http://www.58wangpan.com
           description: 
           title: 58网盘
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
-        - url: https://www.feifeipan.com
-          description: 
-          title: 飞飞盘
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: https://www.baimapan.com
           description: 
           title: 白马盘
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: http://www.quzhuanpan.com
           description: 
           title: 去转盘
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: http://www.sobaidupan.com
           description: 
           title: 搜百度盘
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: https://www.xiaozhaolaila.com
           description: 
           title: 小昭来啦
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: http://www.pan58.com
           description: 
           title: 盘58
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: https://www.luomapan.com
           description: 
           title: 罗马盘
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
-        - url: http://www.lanjuhua.com
-          description: 
-          title: 蓝菊花
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: https://www.sssoou.com
           description: 
           title: telegram中文搜索
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: http://www.panmeme.com
           description: 
           title: 盘么么
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
-        - url: https://www.kolsou.com
-          description: 
-          title: 酷搜
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: https://www.dalipan.com
           description: 
           title: 大力盘
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
         - url: https://www.laisoyixia.com/
           description: 来搜一下
           title: 来搜一下
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+          logo: 百度网盘.jpg
+    - term: 临时传输
+      links:
+        - url: https://gofile.io/
+          description: 七天内有下载就不会删除
+          title: 临时网盘
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/favicon96.png
+        - url: https://app.tmp.link/
+          description: 不限空间的临时网盘
+          title: 钛盘
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+    - term: 云盘工具
+      links:
+        - url: https://link.gimhoy.com/
+          description: 网盘直链获取工具
+          title: 网盘直连
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/wpzl.ico
 
+- taxonomy: 插件扩展
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 谷歌插件
+      links:
+        - title: wappalyzer
+          url: https://www.wappalyzer.com/
+          logo: wappalyzer.png
+          description: Identify technology on websites.
+        - title: Panda
+          url: http://usepanda.com/
+          logo: usepanda.png
+          description: A smart news reader built for productivity.
+        - title: sizzy
+          url: https://sizzy.co/
+          logo: sizzy.png
+          description: A tool for developing responsive websites crazy-fast.
+        - title: csspeeper
+          url: https://csspeeper.com/
+          logo: csspeeper.png
+          description: Smart CSS viewer tailored for Designers.
+        - title: insight
+          url: http://insight.io/
+          logo: insight.png
+          description: IDE-like code search and navigation, on the cloud.
+        - title: mustsee
+          url: http://mustsee.earth/
+          logo: mustsee.png
+          description: Discover the world's most beautiful places at every opened tab.
+    - term: 其它插件
+      links:
+        - url: https://greasyfork.org/
+          description: 插件脚本
+          title: Greasy Fork
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/blacklogdaspw.png
+        - url: https://sleazyfork.org/
+          description: 插件脚本
+          title: Sleazy Fork
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/blacklogdaspw.png
+        - url: https://bbs.tampermonkey.net.cn/
+          description: 油猴脚本交流分享论坛
+          title: 油猴中文网
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/hoidys93sjq.ico
+        - url: https://www.extfans.com/
+          description: chrome插件扩展下载
+          title: 扩展迷
+          logo: https://static-public.infinitytab.com/sites-resource/extfans/61ea85a31aec3f3365dbe165/icon_1642759665914.jpg
+        - url: https://www.crxsoso.com/
+          description: 浏览器插件扩展下载
+          title: crx搜搜
+          logo: https://www.crxsoso.com/favicon.ico
+        - url: http://old.via-app.cn/
+          description: via浏览器
+          title: via-第三方插件
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502184925.png
+        - url: http://via-app.cn/#/tabBar/home
+          description: via浏览器
+          title: via插件
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502184925.png
+        - url: https://tool.whgpc.com/Tools/viaPLUG/#/tabBar/home
+          description: via浏览器
+          title: via插件
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502184925.png
+- taxonomy: 在线工具
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 工具合集
+      links:
+        - url: https://www.aconvert.com/
+          description: 文档格式转换
+          title: Aconvert
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: https://uutool.cn/
+          description: uu在线工具
+          title: 352款在线工具
+          logo: https://uutool.cn/favicon.ico
+        - url: https://toolight.cn/
+          description: 偷懒工具
+          title: 偷懒工具
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/9234kaq.png
+        - url: https://www.bejson.com/
+          description: 在线工具
+          title: 在线工具
+          logo: https://www.bejson.com/favicon.ico
+        - url: https://www.ooopn.com/
+          description: 小白工具
+          title: 小白工具
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/dnwl2re4.ico
+        - url: https://tool.lu/
+          description: 在线工具
+          title: 在线工具
+          logo: https://tool.lu/favicon.ico
+        - url: https://xbeibeix.com/
+          description: 贝贝工具站
+          title: 贝贝
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/beibeiaaaadc.jpg
+        - url: https://c.runoob.com/
+          description: 
+          title: 菜鸟工具
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: http://tools.bugscaner.com/
+          description: 
+          title: 在线工具
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: https://tools.miku.ac/
+          description: 
+          title: Miku工具
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: https://tools.miku.ac/
+          description: 
+          title: MikuTools
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: http://lab.mkblog.cn/
+          description: 
+          title: 孟坤实验室
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+    - term: 临时邮箱
+      links:
+        - url: https://temp-mail.org/zh/
+          description: 邮箱有效不限时间
+          title: temp mail
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/ldsvnxz.ico
+        - url: https://www.linshi-email.com/
+          description: 邮箱有效不限时间
+          title: 临时邮箱
+          logo: https://static.linshi-email.com/favicon.ico
+        - url: https://www.guerrillamail.com
+          description: 邮箱有效60分钟
+          title: Guerrilla
+          logo: https://www.guerrillamail.com/favicon.ico
+        - url: https://temp-mail.org/
+          description: 邮箱有效不限时
+          title: TempMail
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/asqwwwcaq.ico
+        - url: https://www.crazymailing.com/
+          description: 🧱邮箱有效30分钟
+          title: crazymailing
+          logo: https://www.crazymailing.com/favicon.ico
+        - url: http://www.yopmail.com/
+          description: YOPmail 邮箱有效5日
+          title: YOPmail
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/yoxusia3fh.png
+        - url: https://10minutemail.net/
+          description: 10分钟邮箱 邮箱有效10分钟[可无限续时10分钟]
+          title: 临时邮箱
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/yoxusia3fh.png
+    - term: 谷歌应用
+      links:
+        - url: https://cn.uptodown.com/
+          description: 在Uptodown上轻松地下载安卓应用程序：最新升级的APK，完全免费且无病毒。
+          title: Uptodown
+          logo: 
+        - url: https://apkmod.cc/
+          description: Download APK Mod Paid Android Apps
+          title: APKMod.cc
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/apopss23.png
+        - url: https://apkpremier.com/
+          description: APK Download for Android
+          title: APK Premier
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/gvcyiuydws.ico
+        - url: https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=
+          description: Free and safe Android APK downloads
+          title: APKMirror
+          logo: 
+        - url: https://apk-dl.com/zh
+          description: 使用APK-DL市场客户端下载更新游戏应用, 及时体验应用最新功能提高应用的安全性和稳定.
+          title: APK-DL
+          logo: 
+        - url: https://apk.support/zh_cn/
+          description: 下载APK免费应用程序和游戏，发现适用于Android的最佳应用程序和游戏。直接下载APK文件并手动安装到您的Android设备上。
+          title: APK免费
+          logo: 
+        - url: https://apkpure.com/cn/
+          description: 使用APKPure APK下载器在线极速下载原版应用
+          title: APKPure
+          logo: 
+        - url: https://apkdl.in/
+          description: 
+          title: APK下载
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+    - term: 在线翻译
+      links:
+        - url: https://fanyi.youdao.com/?keyfrom=fanyi-new.logo
+          description: 在线翻译_有道
+          title: 有道翻译
+          logo: https://shared.ydstatic.com/images/favicon.ico
+        - url: https://fanyi.baidu.com/
+          description: 翻译,在线翻译,百度翻译,词典,英语,
+          title: 百度翻译
+          logo: https://fanyi-cdn.cdn.bcebos.com/static/translation/img/favicon/favicon-32x32_ca689c3.png
+        - url: https://translate.google.com/
+          description: 在线翻译
+          title: Google翻译
+          logo: https://webstack.cc/assets/images/logos/google.png
+    - term: 测速统计
+      links:
+        - url: https://www.17ce.com/
+          description: 
+          title: 网站测速
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: https://www.revolvermaps.com/
+          description: 
+          title: 网站统计
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: https://ping.pe
+          description: 
+          title: Ping.pe
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: https://ping.chinaz.com/
+          description: 
+          title: 站长Ping
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+    - term: 先放着吧
+      links:
+        - url: http://www.slimego.cn/
+          description: 
+          title: 史莱姆
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: http://www.mdeditor.com/
+          description: 
+          title: MD编辑器
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: http://cubic-bezier.com
+          description: 
+          title: 贝赛尔曲线
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: https://5iux.cn/base64/
+          description: 
+          title: Base64
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+        - url: https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
+          description: 
+          title: JS混淆器
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
@@ -740,6 +1050,10 @@
           description: Search & download thousands of logos instantly.
     - term: 平面素材
       links:
+        - url: https://design.maliquankai.com/
+          description: 插画,设计,图标,图库,思维导图,压缩工具,独立开发,资源,视频,效率工具,表情设计,动效
+          logo: https://maliquankai.oss-cn-shenzhen.aliyuncs.com/favicon.ico
+          title: 马力全开
         - title: freepik
           logo: freepik.png
           url: https://www.freepik.com/
@@ -794,6 +1108,10 @@
           description: 免费素材共享平台。
     - term: 字体资源
       links:
+        - url: https://www.100font.com/
+          description: 免费商用 字体网
+          title: 100font
+          logo: https://www.100font.com/view/img/favicon.ico
         - title: Google Font
           url: https://fonts.google.com/
           logo: googlefont.png
@@ -854,6 +1172,16 @@
           url: http://www.abstractfonts.com/
           logo: abstractfonts.png
           description: Abstract Fonts (13,866 free fonts).      
+    - term: 声音资源
+      links:
+        - url: https://www.ear0.com/
+          description: 音效、拟音、配乐
+          logo: https://www.ear0.com/public/images/favicon.ico
+          title: 耳聆网
+        - url: https://www.aigei.com/
+          description: 音效、拟音、配乐
+          logo: https://cdn-sqn.aigei.com/assets/site/img/icon/favicon.ico
+          title: 爱给网
     - term: PPT资源
       links:
         - title: OfficePLUS
@@ -1003,70 +1331,13 @@
           url: http://www.vanschneider.com/colors
           logo: vanschneider.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-    - term: 在线工具
-      links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台。
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
-    - term: 谷歌插件
-      links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: wappalyzer.png
-          description: Identify technology on websites.
-        - title: Panda
-          url: http://usepanda.com/
-          logo: usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: sizzy.png
-          description: A tool for developing responsive websites crazy-fast.
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: insight.png
-          description: IDE-like code search and navigation, on the cloud.
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
+
+
 
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 资讯书籍
-      links:
     - term: 博客论坛
       links:
         - title: Inoreader
