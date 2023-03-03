@@ -3,46 +3,11 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 麻雀
-      logo: 语雀.jpg
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 开源中国
-      logo: 开源中国.jpg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
-    - title: CODING
-      logo: coding.png
-      url: https://shenweiyan.coding.net/user/projects
-      description: 个人 CODING 代码托管。
-    - title: GitHub
-      logo: github.jpg
-      url: https://github.com/
-      description: GitHub 开源社区。
     - title: Md2X 定制版
       logo: mdx.png
       url: https://mdx.ncbix.com/
       description: Markdown 排版利器，Md2All 定制版。
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
+
 
 - taxonomy: 视频相关
   icon: far fa-play-circle
@@ -162,7 +127,7 @@
         - title: 布谷TV
           url: https://www.bugutv.net/
           description: 4K蓝光原盘电影迅雷免费下载
-          logo: /img/bugu.jpg
+          logo: bugu.jpg
         - title: 4K圈
           url: http://www.4kquan.com/
           description: 专注4K UHD 蓝光原盘资源_4K电影下载
@@ -327,6 +292,22 @@
   list:
     - term: 音乐🎵
       links:
+        - url: http://tools.liumingye.cn/music/
+          title: MyFree
+          description: 音乐在线听或下载
+          logo: http://tools.liumingye.cn/favicon.ico
+        - url: http://mvxz.com/?home
+          title: MV下载王
+          logo: https://sf1-cdn-tos.douyinstatic.com/obj/eden-cn/lpqpflo/ixigua_favicon.ico
+          description: MV下载王：最新最全的高清音乐mv，找好看的mtv视频就来MvXZ.com
+        - url: https://www.ooopn.com/tool/vipmusic/
+          title: 音乐搜索器
+          description: 音乐在线搜索
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/yidsj39aq.png
+        - url: https://www.kekedj.com/
+          title: 可可DJ
+          description: 可可DJ音乐网-车载dj dj舞曲 dj现场视频 原创DJ音乐分享平台
+          logo: https://www.kekedj.com///app/templates/default/images/icon32.ico
         - title: QQ 音乐
           logo: QQ音乐.jpg
           url: https://y.qq.com/
@@ -348,7 +329,7 @@
         - title: Z-Library
           url: https://zlibrary.ml/
           description: Z-Library 项目的一部分. 全球最大的数字图书馆
-          logo: /img/Z-Library.png
+          logo: Z-Library.png
         - title: 3k电子书
           url: http://www.3ktxt.com/
           description: 在线阅读或下载
@@ -469,15 +450,15 @@
         - url: https://vocalremover.org/
           description: 背景音乐分离
           title: VocalreMover
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: https://zh.recompressor.com/
           description: 图片压缩
           title: Recompressor
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: https://www.doutub.com/picEdit
           description: 在线制作表情包
           title: 表情包制作
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - title: tinypng
           url: https://tinypng.com/
           logo: tinypng.png
@@ -506,7 +487,45 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
-
+- taxonomy: 代码服务
+  icon: fas fa-terminal fa-lg
+  list:
+    - term: 代码托管
+      links:
+        - title: GitHub
+          logo: github.jpg
+          url: https://github.com/
+          description: GitHub 开源社区。
+        - title: Cloudflare
+          url: https://dash.cloudflare.com/
+          description: 网站托管cdn
+          logo: https://dash.cloudflare.com/apple-touch-icon-114x114.png
+        - title: Home - Replit
+          url: https://replit.com/~
+          logo: https://replit.com/public/icons/favicon-prompt-192.png
+          description:  代码托管
+        - title: vercel
+          url: https://vercel.com/
+          logo: vercel.png
+          description:  代码托管
+        - title: heroku
+          url: https://dashboard.heroku.com/
+          logo: heroku.ico
+          description:  🧱代码托管
+        - title: CODING
+          logo: coding.png
+          url: https://shenweiyan.coding.net/user/projects
+          description: 个人 CODING 代码托管。
+    - term: 代码学习
+      links:
+        - url: http://www.w3school.com.cn/
+          description: 
+          title: W3school
+          logo: https://www.w3school.com.cn/ui2019/logo-96-red.png
+        - url: https://docs.python.org/zh-cn/3/
+          title: Python
+          description: Python 3.10.4 文档
+          logo: https://docs.python.org/zh-cn/3/_static/py.svg
 - taxonomy: 云盘相关
   icon: fas fa-cloud-download-alt fa-lg
   list:
@@ -545,7 +564,7 @@
         - title: 小雅
           url: http://alist.xiaoya.pro/
           description: 东西贼多
-          logo: /img/xiaoya.png
+          logo: xiaoya.png
         - title: 图欧资源库
           url: https://tuostudy.com/
           description: 东西多，速度还快
@@ -585,7 +604,7 @@
         - title: Spencer's OneDrive
           url: https://drive.swo.moe/
           description: onedrive-vercel-index演示站，程序很漂亮
-          logo: /img/onedrive-vercel-index.webp
+          logo: onedrive-vercel-index.webp
         - title: 百鸟思慕
           url: https://cloud.avbk.cn/
           description: 东西贼少
@@ -653,7 +672,7 @@
         - url: https://app.tmp.link/
           description: 不限空间的临时网盘
           title: 钛盘
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
     - term: 云盘工具
       links:
         - url: https://link.gimhoy.com/
@@ -662,7 +681,7 @@
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/wpzl.ico
 
 - taxonomy: 插件扩展
-  icon: fas fa-flask fa-lg
+  icon: fas fa-puzzle-piece fa-lg
   list:
     - term: 谷歌插件
       links:
@@ -725,14 +744,14 @@
           title: via插件
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502184925.png
 - taxonomy: 在线工具
-  icon: fas fa-flask fa-lg
+  icon: fas fa-tools fa-lg
   list:
     - term: 工具合集
       links:
         - url: https://www.aconvert.com/
           description: 文档格式转换
           title: Aconvert
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: https://uutool.cn/
           description: uu在线工具
           title: 352款在线工具
@@ -760,23 +779,23 @@
         - url: https://c.runoob.com/
           description: 
           title: 菜鸟工具
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: http://tools.bugscaner.com/
           description: 
           title: 在线工具
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: https://tools.miku.ac/
           description: 
           title: Miku工具
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: https://tools.miku.ac/
           description: 
           title: MikuTools
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: http://lab.mkblog.cn/
           description: 
           title: 孟坤实验室
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
     - term: 临时邮箱
       links:
         - url: https://temp-mail.org/zh/
@@ -840,7 +859,7 @@
         - url: https://apkdl.in/
           description: 
           title: APK下载
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
     - term: 在线翻译
       links:
         - url: https://fanyi.youdao.com/?keyfrom=fanyi-new.logo
@@ -860,41 +879,187 @@
         - url: https://www.17ce.com/
           description: 
           title: 网站测速
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: https://www.revolvermaps.com/
           description: 
           title: 网站统计
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: https://ping.pe
           description: 
           title: Ping.pe
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: https://ping.chinaz.com/
           description: 
           title: 站长Ping
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
     - term: 先放着吧
       links:
         - url: http://www.slimego.cn/
           description: 
           title: 史莱姆
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: http://www.mdeditor.com/
           description: 
           title: MD编辑器
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: http://cubic-bezier.com
           description: 
           title: 贝赛尔曲线
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: https://5iux.cn/base64/
           description: 
           title: Base64
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
         - url: https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
           description: 
           title: JS混淆器
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/iecs'.png
+          logo: 
+- taxonomy: 沟通相关
+  icon: fas fa-comments fa-lg
+  list: 
+    - term: 技术交流
+      links:
+       - title: 麻雀
+         logo: 语雀.jpg
+         url: https://www.yuque.com/
+         description: 专业的云端知识库。
+       - title: 开源中国
+         logo: 开源中国.jpg
+         url: https://www.oschina.net/
+         description: 中文开源技术交流社区。
+       - title: 搜狗微信
+         logo: 搜狗微信.jpg
+         url: https://weixin.sogou.com/
+         description: 搜狗微信搜索，一搜即达。
+       - title: V2EX
+         logo: v2ex.jpg
+         url: https://www.v2ex.com/
+         description: V2EX 创意工作者的社区。
+    - term: 交流平台
+      links:
+        - url: https://weibo.com/
+          title: 微博
+          description: 未添加介绍
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/weisboxa.png
+        - url: https://wx.qq.com/
+          title: 微信网页版
+          description: 未添加介绍
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/weixsxcixin.png
+        - url: https://tieba.baidu.com/
+          title: 百度贴吧
+          description: 未添加介绍
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/baixidsladu.png
+        - url: https://www.zhihu.com/
+          title: 知乎
+          description: 未添加介绍
+          logo: 知乎.png
+        - url: https://www.douban.com/
+          description: 提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。
+          title: 豆瓣
+          logo: 豆瓣.webp
+        - url: https://www.quora.com/
+          title: Quora
+          description: 未添加介绍
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/wca2f4.png
+        - url: https://www.facebook.com/
+          title: Facebook
+          description: 未添加介绍
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/f3addcacebook.png
+        - url: https://telegram.org/
+          title: Telegram
+          description: 未添加介绍
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/telegram.png
+        - url: https://plus.google.com/
+          title: Google+
+          description: 未添加介绍
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/sdbvjsaw3am.png
+        - url: https://www.tumblr.com/
+          title: iTumblr
+          description: 未添加介绍
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/tzvc36a2.png
+        - url: https://www.instagram.com/
+          title: clInstagram
+          description: 未添加介绍
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/shejiaolaxge.png
+        - url: https://www.linkedin.com/
+          title: cLinkedIn
+          description: 未添加介绍
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/lixb3asm.png
+    - term: 各类邮箱
+      links:
+        - url: https://mail.google.com/mail/u/0/#inbox
+          title: Gmail
+          description: 谷歌的gmail
+          logo: 谷歌gmail.png
+        - url: https://outlook.live.com/mail/
+          title: Hotmail
+          description: 微软的outlook
+          logo: https://res.cdn.office.net/assets/mail/pwa/v1/pngs/apple-touch-icon.png
+        - url: https://mail.163.com/
+          title: 网易邮箱
+          logo: https://mail.163.com/favicon.ico
+        - url: https://mail.sina.com.cn/
+          title: 新浪邮箱
+          logo: https://www.sinaimg.cn/favicon.ico
+        - url: https://mail.qq.com/
+          title: QQ邮箱
+          description: 腾讯的🐧
+          logo: qq邮箱.png
+        - url: https://qiye.aliyun.com/
+          title: 阿里邮箱
+          logo: https://qiye.aliyun.com/static/0.1.41/images/favicon.ico
+    - term: 个人博客
+      links:
+        - url: https://blog.ltyuanfang.cn/
+          description: 远方博客 - 记录生活点滴美好!
+          title: 远方博客
+          logo: https://tucdn.ltyuanfang.cn/images/2021/02/04/6f1ea078c3ea93f58a68772090860d74.png
+        - url: https://www.ihewro.com/
+          description: 我们这一生很短，我们终将会失去它，所以不妨大胆一点。
+          title: 友人c
+          logo: https://www.ihewro.com/usr/uploads/2020/02/863730882.jpg
+        - url: https://blog.5iux.cn/
+          description: 不想当前端的设计不是好画家
+          title: 51ux博客
+          logo: https://blog.5iux.cn/wp-content/uploads/2020/04/2020041013154745.png
+        - url: https://www.i4qq.com/
+          description: QQ/微信小程序源码分享_uniapp小程序开发_小程序教程大全
+          title: 安好屋
+          logo: https://www.i4qq.com/favicon.png
+        - url: https://mkblog.cn/
+          description: 每年更新一点点
+          title: 孟坤博客
+          logo: https://mkblog.cn/favicon.ico
+        - url: https://www.vvhan.com/
+          description: 要变得更加完美
+          title: 韩小韩
+          logo: https://www.vvhan.com/favicon.ico
+        - url: https://www.gmit.vip/
+          description: 知足得以长乐
+          title: 故梦
+          logo: https://cache.gmit.vip/favicon.ico
+    - term: 个人媒体
+      links:
+        - url: https://www.toutiao.com/
+          description: 今日头条，头条，头条网，头条新闻，今日头条官网
+          title: 头条号
+          logo: https://sf3-cdn-tos.douyinstatic.com/obj/eden-cn/uhbfnupkbps/toutiao_favicon.ico
+        - url: https://mp.weixin.qq.com/
+          description: 给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。
+          title: 公众号
+          logo: 微信公众号.png
+        - url: https://baijiahao.baidu.com/
+          description: 百家号，是百度为创作者打造的集创作、发布、变现于一体的内容创作平台，也是众多企业号实现营销转化的运营新阵地。
+          title: 百家号
+          logo: https://bjhstatic.cdn.bcebos.com/fe-react-register/static/media/baidu.04b11000.png
+        - url: https://om.qq.com/
+          description: 腾讯内容开放平台
+          title: 企鹅号
+          logo: https://om.gtimg.cn/om/om_2.0/images/favicon_om.ico
+        - url: https://mp.dayu.com/
+          description: 多点分发。内容创作者一点接入大鱼号
+          title: 大鱼号
+          logo: https://image.uc.cn/s/uae/g/1v/images/index/favicon.ico
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
@@ -926,6 +1091,18 @@
           description: http://www.bioconductor.org
     - term: 云服务器
       links:
+        - url: https://signin.aws.amazon.com
+          description: 亚马逊云服务
+          title: 亚马逊云
+          logo: https://aws.amazon.com/favicon.ico
+        - url: https://portal.qiniu.com/create
+          description: 七牛云服务
+          title: 七牛云
+          logo: https://sso.qiniu.com/asserts/favicon.ico
+        - url: https://www.oracle.com/cn/
+          description: 甲骨文云服务
+          title: 甲骨文
+          logo: https://www.oracle.com/favicon.ico
         - title: 阿里云
           logo: 阿里云.jpg
           url: https://www.aliyun.com/
@@ -978,6 +1155,14 @@
   list:
     - term: 图标素材
       links:
+        - url: https://www.icosky.com/
+          description: 图标之家, 桌面图标,ICO,PNG图标,网页图标免费下载
+          title: 图标之家
+          logo: https://www.icosky.com/favicon.ico
+        - url: https://feathericons.com/
+          description: 简单漂亮的开源图标
+          title: Feather
+          logo: feathericons.png
         - title: Iconfinder
           logo: Iconfinder.png
           url: https://www.iconfinder.com
@@ -1050,6 +1235,14 @@
           description: Search & download thousands of logos instantly.
     - term: 平面素材
       links:
+        - url: https://www.zcool.com.cn/
+          description: 设计师互动平台 - 打开站酷，发现更好的设计！
+          title: 站酷
+          logo: https://static.zcool.cn/git_z/z/site/favicon.ico
+        - url: https://uiiiuiii.com/
+          description: 平面,海报等原创免费教程在线学习-UiiiUiii官网
+          title: 优设教程
+          logo: https://uiiiuiii.com/favicon.ico
         - url: https://design.maliquankai.com/
           description: 插画,设计,图标,图库,思维导图,压缩工具,独立开发,资源,视频,效率工具,表情设计,动效
           logo: https://maliquankai.oss-cn-shenzhen.aliyuncs.com/favicon.ico
@@ -1271,6 +1464,10 @@
           description: Design, prototype, and gather feedback all in one place with Figma.
     - term: 在线配色
       links:
+        - url: https://www.grabient.com/
+          description: css取色
+          title: Grabient
+          logo: https://www.grabient.com/favicon.ico
         - title: khroma
           url: http://khroma.co/generator/
           logo: khroma.png
@@ -1332,34 +1529,9 @@
           logo: vanschneider.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
 
-
-
-
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 博客论坛
-      links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
     - term: 设计规范
       links:
         - title: Design Guidelines
