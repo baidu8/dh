@@ -109,6 +109,14 @@
           url: https://www.dy2018.net/
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/无标题.png
           description: 最好的迅雷电影下载网，分享最新电影，高清电影、综艺、动漫、电视剧等下载！
+        - title: 电影天堂（DYTT8）
+          logo: 电影天堂.png
+          url: https://www.dytt8.net/index.htm
+          description: 电影天堂（DYTT8），高清电影下载。
+        - title: 电影天堂（DYGOD）
+          logo: 电影天堂.png
+          url: https://www.dygod.net/
+          description: 电影天堂（DYGOD），高清电影下载。
         - title: 4K世界
           url: https://www.4ksj.com/
           description: 8K资源_分享全球4K蓝光原盘
@@ -137,6 +145,445 @@
           url: https://4k-m.com/
           description: 4K电影,4k壁纸,4K字幕下载,3D电影,4K视频
           logo: 
+    - term: 视频字幕
+      links:
+        - title: 射手网-字幕
+          url: https://assrt.net/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/sszmwa.ico
+          description: 射手网-字幕
+        - title: 字幕库
+          url: http://zmk.pw/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/favicon.png
+          description: 字幕库
+        - title: sub HD分享-字幕
+          url: https://subhd.tv/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/apple-touch-icon.png
+          description: sub HD分享-字幕
+        - title: sub HD字幕下载平台
+          url: https://subhdtw.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/apple-touch-icon.png
+          description: sub HD字幕下载平台
+        - title: TLF字幕组
+          url: https://sub.eastgame.org/
+          logo: https://sub.eastgame.org/favicon.ico
+          description: 比较早期的字幕组，稀缺老剧字幕
+        - title: 人人影视字幕组
+          url: https://www.yysub.net/
+          logo: https://www.yysub.net/favicon.ico
+          description: 人人影视原班人马，只提供字幕不提供片源
+        - title: Subscene
+          url: https://subscene.com/
+          logo: https://subscene.com/favicon.ico
+          description: 英文字幕，包含一些国语电影的英文字幕
+        - title: 东京不够热
+          url: https://www.tokyonothot.com
+          logo: https://www.tokyonothot.com/wp-content/uploads/2019/06/cropped-favicon-32x32.png
+          description: 以日本影视资源为主
+        - title: 冰冰字幕组
+          url: https://www.icezmz.com
+          logo: https://www.icezmz.com/favicon.ico
+          description: 主要翻译一些比较小众的剧，品质还不错
+        - title: 深影字幕组
+          url: https://forum.shinybbs.vip
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/baibaiba.jpg
+          description: 美剧字幕组，也有少量的西剧，广告较少
+        - title: Deefun迪幻字幕组
+          url: https://deefun.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/baibaiba.jpg
+          description: 美剧翻译的比较多，还有一些美剧动画，没广告
+        - title: 弯弯字幕组
+          url: http://wanwansub.com/
+          logo: http://wanwansub.com/template/1/wanwansub/_files/images/icon/W_Letter_32px.png
+          description: 翻译语种包含英日韩泰等10多种语言
+        - title: 天府泰剧
+          url: https://weibo.com/tfthaimovie
+          logo: https://weibo.com/favicon.ico
+          description: 无官网，仅有一个官方微博
+        - title: FIX字幕侠
+          url: http://www.zimuxia.cn/
+          logo: https://www.zimuxia.cn/favicon.ico
+          description: 翻译语种较多，广告较少，更新较及时
+        - title: 日菁字幕组
+          url: http://www.mytvbt.net/forumdisplay.php?fid=6
+          logo: http://www.mytvbt.net/favicon.ico
+          description: 日剧字幕组
+        - title: NEW字幕组
+          url: https://www.newzmz.com
+          logo: https://newzmz.com/favicon.ico
+          description: 翻译速度比较快，没广告，相比人人良心
+        - title: 幻想乐园字幕组
+          url: http://www.hxly9.com/forum.php
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/baibaiba.jpg
+          description: 以翻译韩剧、韩综艺为主的字幕组，有片头广告
+        - title: 漫迪字幕组
+          url: https://mdsub.tk/mdunofficial/feaa315d17a640108aed34bf3c6dac4e
+          logo: https://mdsub.tk/images/favicon.ico
+          description: 漫迪字幕组所有动漫作品合集,无广告
+        - title: 神叨字幕组
+          url: http://shenbibi.com
+          logo: http://i1376.photobucket.com/albums/ah27/youbewow/0_zpsiibdn3qi.jpg
+          description: 产量不高,贵在无广告,论坛生日150326
+        - title: 树屋字幕组
+          url: http://treehousesub.com/forum.php
+          logo: http://treehousesub.com/favicon.ico
+          description: 很多稀缺资源的翻译，产量不高，但是品质不错
+        - title: 点点字幕
+          url: http://www.ddzimu.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/baibaiba.jpg
+          description: 字幕聚合下载站
+    - term: 视频字幕
+      links:
+        - title: ok解析
+          url: https://okjx.cc/?url=
+          description: 解全网视频,秒响应！— OKJX
+          logo: https://okjx.cc/favicon.ico
+        - title: 爱豆解析
+          url: https://jx.aidouer.net/?url=
+          logo: https://cdn.aidouer.net/favicon.ico
+          description: 官方解析
+        - title: BL解析
+          url: https://vip.bljiex.com/?v=
+          logo: https://svip.bljiex.cc/favicon.ico
+          description: 官方解析
+        - title: m3u8.tv解析
+          url: https://www.m3u8.tv/
+          description: 稳定、快速、无广告、无加密、开放JSON
+          logo: https://www.m3u8.tv/favicon.ico
+        - title: html5播放器
+          url: https://jx.blbo.cc:4433/?url=
+          description: 仅供内部交流研究，不以盈利为目的　切勿用于商业如有涉及商业请自行负责...
+          logo: https://fastly.jsdelivr.net/gh/hututu-tech/IMG-gongfeng@main/2022/04/08/624f8810e4841.png
+    - term: 视频大站
+      links:
+        - title: 哔哩哔哩
+          logo: 哔哩哔哩.png
+          url: https://www.bilibili.com/
+          description: Bilibili 视频弹幕网站。
+        - title: 腾讯视频
+          logo: 腾讯视频.png
+          url: http://v.qq.com/
+          description: 腾讯视频，海量视频在线观看。
+        - title: 优酷
+          logo: 优酷.png
+          url: http://www.youku.com/
+          description: 优酷 - 这个世界很酷。
+        - title: 爱奇艺
+          logo: 爱奇艺.png
+          url: https://www.iqiyi.com/
+          description: 爱奇艺在线视频。
+        - title: Youtube
+          url: https://www.youtube.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/youtube.svg
+          description: 未添加介绍
+        - title: CCTV直播
+          url: https://tv.cctv.com/live/index.shtml
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/cc.svg
+          description: CCTV节目官网提供CCTV在线直播
+        - title: 西瓜视频
+          url: https://www.ixigua.com/
+          logo: https://sf1-cdn-tos.douyinstatic.com/obj/eden-cn/lpqpflo/ixigua_favicon.ico
+          description: 让人们看到更丰富和有深度的世界，收获轻松的获得感，点亮对生活的好奇心
+        - title: ACFUN
+          url: https://www.acfun.cn/
+          logo: https://cdn.aixifan.com/ico/favicon.ico
+          description: 弹幕视频网站，这里有全网独家动漫新番， 友好的弹幕氛围，有趣的UP主，好玩有科技感的虚拟偶像，年轻人都在用。
+        - title: AfreecaTV
+          url: https://www.afreecatv.com/
+          logo: https://res.afreecatv.com/afreeca.ico
+          description: 美女直播，韩流，韩国欧巴，韩国娱乐，韩国主播，美女主播，手机直播，户外，吃播，吃货，Afreeca,绝地求生，美女视频，电竞
+
+- taxonomy: 音乐与书
+  icon: fas fa-music fa-lg
+  list:
+    - term: 音乐🎵
+      links:
+        - title: QQ 音乐
+          logo: QQ音乐.jpg
+          url: https://y.qq.com/
+          description: QQ 音乐，在线听歌。
+        - title: 网易云音乐
+          logo: 网易云音乐.jpg
+          url: https://music.163.com/
+          description: 163 网易云音乐。
+    - term: 书籍📕
+      links:
+        - title: 微信读书
+          url: https://weread.qq.com/
+          logo: 微信读书.jpg
+          description: 微信读书提供海量正版书籍、小说、漫画
+        - title: 书栈网
+          url: https://www.bookstack.cn/
+          logo: 书栈网.jpg
+          description: IT 互联网开源编程书籍免费阅读与下载。
+        - title: Z-Library
+          url: https://zlibrary.ml/
+          description: Z-Library 项目的一部分. 全球最大的数字图书馆
+          logo: /img/Z-Library.png
+        - title: 3k电子书
+          url: http://www.3ktxt.com/
+          description: 在线阅读或下载
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/shu92laz.png
+        - title: 小说
+          url: https://www.xiaxs.la/
+          description: txt小说下载网
+          logo: https://www.xiaxs.la/favicon.ico
+- taxonomy: 图片相关
+  icon: fas fa-images fa-lg
+  list:
+    - term: 免费商用
+      links:
+        - title: Pixabay
+          url: https://pixabay.com
+          description: Pixabay 全球最大的免费图片站，超50万张图，支持中文搜索
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220427202132.png
+        - title: Unsplash
+          url: https://unsplash.com
+          description: Unsplash 海量图库，分类超全，精选挑选整理了各种专题
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/favicon-32x32.png
+        - title: 西田图像
+          url: https://www.sitapix.com
+          description: 西田图像 200000+高质量免版权图片素材/设计师素材/摄影图片
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220501094206.png
+        - title: 沙沙野
+          url: https://www.ssyer.com
+          description: 沙沙野 百万素材免费下载，涵盖摄影图片、设计插图、视频等~
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220501095102.png
+        - title: colorhub.me
+          url: https://www.colorhub.me
+          description: colorhub.me 已收录91726张高清图片，质量很高，而且每天都在不断更新
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220501095644.png
+        - title: NASA Image
+          url: https://images.nasa.gov
+          description: NASA Image 美国国家航天局的官方库，均可免费下载使用
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220501100509.png
+        - title: FoodiesFeed
+          url: https://www.foodiesfeed.com
+          description: FoodiesFeed 顾名思义，主打食品，吃货设计师的天堂
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220501100752.png
+        - title: PAKUTASO
+          url: https://www.pakutaso.com
+          description: PAKUTASO 日本免费商用图库，主题丰富，还有写真素材
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220501100939.png
+        - title: Hippopx
+          url: https://www.hippopx.com/zh
+          description: Hippopx 收录超过20万张以上的免费CC0授权相片，支持中文检索
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220501101131.png
+        - title: Pngimg
+          url: http://pngimg.com
+          description: Pngimg 提供了海量的高质量PNG图片，均可免费下载
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220501101524.png
+    - term: 壁纸动漫
+      links:
+        - title: Wallheaven
+          url: https://wallhaven.cc/
+          logo: https://wallhaven.cc/favicon.ico
+          description: 高清电脑壁纸
+        - title: 花瓣
+          url: https://huaban.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing@latest/img/20220427201749.png
+          description: 设计师寻找灵感的天堂！图片素材领导者
+        - title: cos视界
+          url: https://cossj.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430170141.png
+          description: Cos视界 | 总有好看Cos套图.
+        - title: cos
+          url: http://www.lovecos.net/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430164616.png
+          description: Cosplay beautiful pictures, Japan cosplay,China cosplay
+        - title: 爱丝美女
+          url: https://www.24tupian.org/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430164820.png
+          description: 美女明星,美女模特,美女校花等高清图片
+        - title: 低速快感
+          url: http://disu.fun/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/2302365535.png
+          description: 低速快感网址
+        - title: 酷图吧
+          url: http://www.kutoo8.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430165037.png
+          description: 酷图吧
+        - title: 美桌壁纸
+          url: http://www.win4000.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430165754.png
+          description: 桌面主题下载包括xp和win7电脑主题，还有电脑桌面壁纸都是高清桌面壁纸
+        - title: 唯美女生
+          url: https://www.vmgirls.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430170938.png
+          description: 少女情怀总是诗，记录青春少女最美时刻！
+        - title: cgwallpapers
+          url: https://www.cgwallpapers.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430171107.png
+          description: 1080p, 1440p, 4k
+        - title: pixivic
+          url: https://pixivic.com/ 
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430171203.png
+          description: pixiv网页,插画图片,漫画图片,画画图片,动漫图片,图片素材,壁纸图片
+        - title: 6视图
+          url: http://6shitu.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430171502.png
+          description: 免费提供最新最全的高清手机壁纸下载,包括风景、美女、动漫、帅哥、明星
+        - title: 彼岸桌面
+          url: http://www.netbian.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430171556.png
+          description: 高清壁纸大全下载 桌面背景图片
+        - title: 街拍团
+          url: https://jiepaituan.com/
+          logo: https://jiepaituan.net/favicon.ico
+          description: 一个纯粹的街拍博客，专注于真实好看的街拍作品分享
+        - title: 车万殿
+          url: https://chewan.org/
+          logo: https://chewan.org/favicon.png
+          description: 东方Project,车万Project,东方,车万,博丽灵梦,大小姐,二小姐,吸血鬼,红魔馆,红魔乡,幻想乡,同人,魔理莎
+
+- taxonomy: 云盘相关
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 云端网盘
+      links:
+        - title: onedrive
+          url: https://onedrive.live.com/
+          description: 微软onedrive
+          logo: https://p.sfx.ms/images/favicon.ico
+        - title: Google
+          url: https://drive.google.com/drive/my-drive
+          description: Google云端硬盘
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/drive_20212es0q4_64dp.png
+        - title: 苹果云盘
+          url: https://www.icloud.com/
+          description: 苹果云盘
+          logo: 苹果云盘.png
+        - title: 百度网盘
+          logo: 百度网盘.jpg
+          url: http://pan.baidu.com/
+          description: https://pan.baidu.com/.
+        - title: 阿里云盘
+          logo: 阿里云盘.png
+          url: https://www.aliyundrive.com/
+          description: 阿里云盘，你的数字世界。
+        - title: 天翼云盘
+          logo: 天翼云盘.jpg
+          url: https://cloud.189.cn/
+          description: 家庭云|网盘|文件备份|资源分享。
+        - title: 坚果云
+          logo: 坚果云.png
+          usrl: https://www.jianguoyun.com/
+          description: 坚果云官网。
+    - term: 个人网盘
+      links:
+        - title: 小雅
+          url: http://alist.xiaoya.pro/
+          description: 东西贼多
+          logo: /img/xiaoya.png
+        - title: 图欧资源库
+          url: https://tuostudy.com/
+          description: 东西多，速度还快
+          logo: https://tuostudy.com/favicon.ico
+        - title: 百克
+          url: http://pan.peico.cn/
+          description: 挂载了阿里，应该还行
+          logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
+        - title: kenvie
+          url: https://ali.kenvie.com/
+          description: 速度很快
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/asgfxc.png
+        - title: cooluc
+          url: https://media.cooluc.com/ 
+          description: 资源很全，速度很快
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/asgfxc.png
+        - title: 远方盘
+          url: https://pan.ltyuanfang.cn/  
+          description: 速度不错
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/pa12sddn.png
+        - title: 醉后的星星
+          url: https://pan.2bboy.com/home/
+          description: 。。。
+          logo: https://pan.2bboy.com/favicon.ico
+        - title: 即小兴
+          url: https://onedrive.a-my.top/
+          description: 现在速度差不多了
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/yunal2wwosba.png
+        - title: pcno
+          url: https://wp.pcno.cn/
+          description: 🤔没啥东西
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/yunal2wwosba.png
+        - title: iCloud
+          url: https://pan.woriqq.com/
+          description: 清风的私人云盘
+          logo: https://ae01.alicdn.com/kf/H249191b51e72433d8cad0847f1fa3c52m.png
+        - title: Spencer's OneDrive
+          url: https://drive.swo.moe/
+          description: onedrive-vercel-index演示站，程序很漂亮
+          logo: /img/onedrive-vercel-index.webp
+        - title: 百鸟思慕
+          url: https://cloud.avbk.cn/
+          description: 东西贼少
+          logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
+    - term: 盘搜工具
+      links:
+        - url: https://www.upyunso.com
+          description: 阿里云
+          title: UP云搜
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: https://www.yubaipan.com
+          description: 
+          title: 玉白盘
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: http://www.58wangpan.com
+          description: 
+          title: 58网盘
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: https://www.feifeipan.com
+          description: 
+          title: 飞飞盘
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: https://www.baimapan.com
+          description: 
+          title: 白马盘
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: http://www.quzhuanpan.com
+          description: 
+          title: 去转盘
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: http://www.sobaidupan.com
+          description: 
+          title: 搜百度盘
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: https://www.xiaozhaolaila.com
+          description: 
+          title: 小昭来啦
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: http://www.pan58.com
+          description: 
+          title: 盘58
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: https://www.luomapan.com
+          description: 
+          title: 罗马盘
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: http://www.lanjuhua.com
+          description: 
+          title: 蓝菊花
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: https://www.sssoou.com
+          description: 
+          title: telegram中文搜索
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: http://www.panmeme.com
+          description: 
+          title: 盘么么
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: https://www.kolsou.com
+          description: 
+          title: 酷搜
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: https://www.dalipan.com
+          description: 
+          title: 大力盘
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
+        - url: https://www.laisoyixia.com/
+          description: 来搜一下
+          title: 来搜一下
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/logo/12download.svg
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
@@ -213,76 +660,12 @@
           description: 免费在线作图、实时协作。
         
 
-- taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
-  list:
-    - term: 影音视频
-      links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-        - title: 电影天堂（DYTT8）
-          logo: 电影天堂.png
-          url: https://www.dytt8.net/index.htm
-          description: 电影天堂（DYTT8），高清电影下载。
-        - title: 电影天堂（DYGOD）
-          logo: 电影天堂.png
-          url: https://www.dygod.net/
-          description: 电影天堂（DYGOD），高清电影下载。
-    - term: 游戏竞技
-      links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
+
    
       
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
-    - term: 网盘资源
-      links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
     - term: 图标素材
       links:
         - title: Iconfinder
@@ -684,14 +1067,6 @@
   list: 
     - term: 资讯书籍
       links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
     - term: 博客论坛
       links:
         - title: Inoreader
@@ -974,4 +1349,13 @@
           url: https://auth.ihewro.com/
           description: handsome用户中心
           logo: 
-
+    - term: 游戏竞技
+      links:
+        - title: 百度贴吧
+          logo: 百度贴吧.jpg
+          url: ttps://tieba.baidu.com/index.html
+          description: 百度贴吧。
+        - title: 台服战地
+          logo: 战地之王.png
+          url: https://ava.mangot5.com/ava/index
+          description: 台服 AVA 战地之王。
