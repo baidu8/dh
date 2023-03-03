@@ -3,7 +3,7 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 语雀
+    - title: 麻雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
       description: 专业的云端知识库。
@@ -44,6 +44,99 @@
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
 
+- taxonomy: 视频相关
+  icon: far fa-play-circle
+  list:
+    - term: 在线观看
+      links:
+        - title: 低端影视
+          url: https://ddrk.art/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502182415.png
+          description: 低端影视 - 超清在线视频站
+        - title: 凌云影视
+          url: https://www.lyys8.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220427234647.png
+          description: 凌云影视为您提供2022年最新最热电影，电视剧、综艺、动漫、在线免费高清vip免费观看
+        - title: 微看剧
+          url: https://www.weikanju.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502182905.png
+          description: 微看剧提供最新电影，电视剧，动漫，综艺等免费在线观看，每天第一时间更新，给您更好的视频观看体验，手机看片首选微看剧。
+        - title: LIBVIO
+          url: https://www.libvio.com/
+          logo: https://xiaoxiaojia.oss-cn-shanghai.aliyuncs.com/statics/img/favicon.ico
+          description: 未添加介绍
+        - title: HOHO TV
+          url: https://hoho.tv/
+          logo: https://www.hoho.tv/img/left_logo.png
+          description: 多节点无缝体验以及播放速度快捷分享的产品特性,主要满足用户在线观看视频的需求
+        - title: 浮生半日
+          url: http://movie.fush8.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220427234743.png
+          description: 未添加介绍
+        - title: 555电影网
+          url: https://www.o8tv.com/
+          logo: https://www.o8tv.com/favicon.ico
+          description: 每天更新热火欧美日韩剧，最新韩国电影，最专业的的影视服务，免费速度快，及时收录最新、最热、最全的电影大片,高清正版免费看。
+        - title: 烧饼电影院
+          url: https://www.yufu3.com/
+          description: 烧饼电影院
+          logo: 
+    - term: 视频剧集
+      links:
+        - title: 美剧天堂
+          url: https://www.meijutt.tv/
+          logo: https://raw.githubusercontent.com/baidu8/bing/master/img/mjtyt.ico
+          description: 海量好看的美剧在线观看、最新美剧下载！
+        - title: 绅士go
+          url: https://www.2yjw.com/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220427234519.png
+          description: 绅士Go影剧网_热门韩剧_热门电视剧_免费在线观看
+    - term: 视频下载
+      links:
+        - title: 音范丝
+          url: https://www.yinfans.net/
+          logo: https://www.yinfans.me/wp-content/themes/Loos2/images/favicon.ico
+          description: 音范丝是一个高清蓝光电影资源的精选网站，分享顶级蓝光原盘下载资源，人工精选高分影片,部部精品！
+        - title: NEW
+          url: https://newzmz.com/
+          logo: https://newzmz.com/favicon.ico
+          description: 为您网罗最新最热的美剧资讯！为您提供最优质的字幕翻译！
+        - title: webHD
+          url: https://webhd.cc/
+          description: 美剧,电影,美剧下载,英剧下载,电影下载,磁力链,bt下载,720p下载,1080p下载,网盘,迅雷
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/apple-touch-icon.png
+        - title: 电影天堂
+          url: https://www.dy2018.net/
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/无标题.png
+          description: 最好的迅雷电影下载网，分享最新电影，高清电影、综艺、动漫、电视剧等下载！
+        - title: 4K世界
+          url: https://www.4ksj.com/
+          description: 8K资源_分享全球4K蓝光原盘
+          logo: https://www.4ksj.com/favicon.ico
+        - title: Grab4K
+          url: https://www.grab4k.com/
+          description: Grab4K,4K蓝光原盘,蓝光电影,高清电影,115网盘资源
+          logo: https://www.grab4k.com/mxstatic/picture/logo.png
+        - title: 最爱片源
+          url: https://z2py.com/
+          description: 高清片源 | 蓝光片源 | 原盘片源 | 最新片源 - 海量资源应有尽有
+          logo: https://z2py.com/img/favicon.ico
+        - title: 布谷TV
+          url: https://www.bugutv.net/
+          description: 4K蓝光原盘电影迅雷免费下载
+          logo: /img/bugu.jpg
+        - title: 4K圈
+          url: http://www.4kquan.com/
+          description: 专注4K UHD 蓝光原盘资源_4K电影下载
+          logo: 
+        - title: Pirate Bay
+          url: https://pirate-bays.net/
+          description: Download movies, music, games and software!
+          logo: https://pirate-bays.net/wp-content/themes/piratebay/favicon.ico
+        - title: 4K电影
+          url: https://4k-m.com/
+          description: 4K电影,4k壁纸,4K字幕下载,3D电影,4K视频
+          logo: 
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
@@ -661,4 +754,224 @@
           url: https://www.imooc.com/
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
-        
+
+- taxonomy: 其它网站
+  icon: fas fa-american-sign-language-interpreting fa-lg
+  list: 
+    - term: 其它导航
+      links:
+        - title: 下视频导航
+          url: https://www.xiashipin.net/
+          description: 精品福利网址小众品牌第一导航
+          logo: https://www.xiashipin.net/files/favicon.ico
+        - title: Edui123.com
+          url: https://edui123.com/
+          description: 精品福利网址小众品牌第一导航
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/daohangsiw2qqs.png
+        - title: 影视森林
+          url: https://549.tv/
+          description: 观影第一站,电影,电视剧,综艺,游戏视频,在线观看,电影电视剧排行榜
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/daohangsiw2qqs.png
+        - title: 果汁导航
+          url: http://guozhivip.com/
+          logo: http://guozhivip.com/images/ic.ico
+          description: 果汁资源导航
+        - title: Gm Nav!
+          url: https://nav.gmit.vip/
+          description: 前端导航,Gm Nav
+          logo: https://nav.gmit.vip/favicon/favicon.ico
+        - title: 5IUX设计师导航
+          url: https://hao.5iux.cn/
+          description: 设计综合导航
+          logo: 
+        - title: 氪主页
+          url: https://www.51kim.com/
+          description: 精雕细琢每一像素、只为让您拥有一个体面的浏览器主页。除此之外，再无其他。
+          logo: https://www.51kim.com/favicon.ico
+        - title: 聚神铺
+          url: https://www.jspoo.com/
+          description: 网址导航-超实用的资源网站
+          logo: 
+    - term: 有趣网站
+      links:
+        - title: 指针
+          url: https://pointerpointer.com/
+          description: 鼠标在哪就指哪
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/haowaanskewq.png
+        - title: ai生成人物头像
+          url: https://thispersondoesnotexist.com/
+          description: 生成一个世界上不存在的图像
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/haowaanskewq.png
+        - title: 逗逼拯救世界
+          url: https://www.dbbqb.com/
+          description: 表情包制作
+          logo: https://www.dbbqb.com/logo192.png
+        - title: 无用网站
+          url: https://theuselessweb.com/
+          description: 随机返回一个无用网站
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/haowaanskewq.png
+        - title: cantelope
+          url: https://cantelope.org/
+          description: 各种好玩的项目
+          logo: https://cantelope.org/favicon.ico
+        - title: FORCHANGE AI EDU
+          url: https://chat.forchange.cn/
+          description: ai聊天
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/haowaanskewq.png
+        - title: ai聊天
+          url: https://qkongtao.cn/chatgpt/
+          description: ai聊天
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/haowaanskewq.png
+        - title: ai聊天
+          url: http://ai.d8bi.cn/
+          description: 这个挺好用的，貌似要收费了。。。
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/haowaanskewq.png
+    - term: 在线游戏
+      links:
+        - title: 自由钢琴
+          url: https://www.autopiano.cn/
+          description: 最美在线钢琴应用
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/piano.jpg
+        - title: 架子鼓
+          url: http://guozhivip.com/jzg/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/jzg.png
+          description: 敲打出你自己的旋律
+        - title: 智能简笔画
+          url: https://www.autodraw.com/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/autodraw.png
+          description: 神经网络能学会辨识涂鸦
+        - title: 快速涂鸦
+          url: https://quickdraw.withgoogle.com/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/autodraw.png
+          description: 在线AI识别简笔画工具
+        - title: 舒尔特方格
+          url: https://edui123.com/schulte/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/schulte.png
+          description: 随时随地打开，开启专注力训练
+        - title: 贾斯纳的猫
+          url: https://edui123.com/cat/
+          logo: 
+          description: 适合3+岁的孩子发展逻辑语言技能
+        - title: 决战24点
+          url: https://edui123.com/24/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/pk24go.jpg
+          description: 24点出题器
+        - title: 数独
+          url: https://edui123.com/shudu/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/shudu.jpg
+          description: 在线数独练习
+        - title: 七巧板
+          url: https://blocks.ovh/
+          logo: 
+          description: 在线游玩七巧板益智小游戏
+        - title: 3D魔方还原
+          url: https://edui123.com/cube/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/cube1.png
+          description: 在线3D魔方还原
+        - title: 扫雷
+          url: https://edui123.com/saolei/
+          logo: 
+          description: 在线版扫雷
+        - title: 井字棋
+          url: https://edui123.com/jingziqi/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/jingziqi.png
+          description: 小时候玩的井字棋，最多只能平局
+        - title: 在线国际象棋
+          url: https://lichess.org/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/lichess.png
+          description: 免费、开源、没有广告、支持多语言的在线国际象棋游戏
+        - title: 连线 Play Lines
+          url: https://lines.frvr.com/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/lianxian.jpg
+          description: 把相同颜色的点都连接起来
+        - title: 俄罗斯方块
+          url: https://edui123.com/tetris/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/tetris.jpg
+          description: 在线版
+        - title: 贪吃蛇
+          url: https://playsnake.org/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/tanchishe.jpg
+          description: 在线版
+        - title: 24点难度排行
+          url: https://edui123.com/24rank/
+          description: 1362道有解的24点计算时间排行
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/24rank.png
+        - title: Euclidea3 解法
+          url: https://edui123.com/euclidea/
+          description: 对应 Apple app store 里的 Euclidea3 游戏
+          logo: https://fastly.jsdelivr.net/gh/lmm214/Euclidea/v1/stylesheets/favicon.png
+        - title: 小霸王
+          url: https://www.yikm.net/
+          description: 其乐无穷 。红白机，FC在线游戏，街机游戏，街机在线，NES games，NES games online，Super Mario
+          logo: 
+        - title: fc游戏在线玩
+          url: http://lab.mkblog.cn/FCGames/#/
+          description: fc游戏在线玩
+          logo: 
+    - term: 未分类
+      links:
+        - title: 漫威迷
+          url: https://www.manweimi.cn/
+          description: 从这里了解更多漫威新鲜事
+          logo: https://www.manweimi.cn/favicon.ico
+        - title: Wikihow
+          url: https://zh.wikihow.com/
+          description: 值得信赖的互联网维基百科
+          logo: https://www.wikihow.com/skins/WikiHow/wH-initials_152x152.png
+        - title: 全历史
+          url: https://www.allhistory.com/
+          description: 以AI知识图谱为核心引擎，通过高度时空化、关联化数据的方式构造及展现数字人文内容
+          logo: https://www.allhistory.com/favicon.ico
+        - title: iptv
+          url: https://iptv-org.github.io/
+          description: 电视m3u8收集
+          logo: https://iptv-org.github.io/favicon.png
+        - title: 天空有多高
+          url: http://www.secaibi.com/howbigisspace/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/tiankong.png
+          description: 用网页滚动形式展示了从地球到宇宙深空的距离
+        - title: 千亿像素看中国
+          url: http://www.bigpixel.cn/
+          logo: 
+          description: 世界之美, 记录细节！
+        - title: 天空之城
+          url: https://www.skypixel.com/
+          logo: 
+          description: 全球航拍爱好者和专业摄影师的作品社区
+        - title: 极像素
+          url: https://www.sigoo.com
+          logo: 
+          description: 超高像素看世界
+        - title: 全景720云图
+          url: https://720yun.com/
+          logo: 
+          description: 全景摄影,全景图片
+        - title: 指尖上
+          url: https://www.zhijianshang.com/
+          logo: 
+          description: 海量全面精美的VR全景旅游景点介绍
+        - title: 全景故宫
+          url: https://pano.dpm.org.cn/
+          logo: 
+          description: 全景3D故宫在线
+        - title: 致美化
+          url: https://zhutix.com/
+          description: 最专业的桌面美化交流平台
+          logo: https://dl.zhutix.net/2020/11/2021_x.png
+        - title: CodePen
+          url: https://codepen.io/
+          description: 在线代码编辑器和前端 Web 开发者社区
+          logo: https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png
+        - title: 简书
+          url: https://www.jianshu.com/
+          description: 简书是一个优质的创作社区，在这里，你可以任性地创作，一篇短文、一张照片、一首诗、一幅画……我们相信，每个人都是生活中的艺术家，有着无穷的创造力。
+          logo: 
+        - title: 王者荣耀
+          url: https://pvp.qq.com/
+          description: 王者荣耀。。。
+          logo: https://pvp.qq.com/favicon.ico
+        - title: handsome社区
+          url: https://auth.ihewro.com/
+          description: handsome用户中心
+          logo: 
+
