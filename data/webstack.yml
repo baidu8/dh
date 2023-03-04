@@ -15,6 +15,10 @@
       title: fontawesome
       description: fontawesome中文图标库
       logo: fontawesome.ico
+    - title: 阿里图标
+      description: 阿里图标，插画
+      logo: 阿里图标库2.svg
+      url: https://www.iconfont.cn/
     - url: https://xbeibeix.com/api/bilibili/
       description: B站视频下载
       title: 贝贝BiliBili
@@ -43,10 +47,6 @@
       description: Google云端硬盘
       title: Google
       logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/drive_20212es0q4_64dp.png
-    - title: 阿里图标
-      description: 阿里图标，插画
-      logo: //img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico
-      url: https://www.iconfont.cn/
     - title: Cloudflare
       description: 网站托管
       logo: https://dash.cloudflare.com/apple-touch-icon-114x114.png
@@ -105,7 +105,7 @@
       links:
         - title: 美剧天堂
           url: https://www.meijutt.tv/
-          logo: https://raw.githubusercontent.com/baidu8/bing/master/img/mjtyt.ico
+          logo: 美剧天堂.png
           description: 海量好看的美剧在线观看、最新美剧下载！
         - title: 绅士go
           url: https://www.2yjw.com/
@@ -157,7 +157,7 @@
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/apple-touch-icon.png
         - title: 电影天堂
           url: https://www.dy2018.net/
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/无标题.png
+          logo: 电影天堂.png
           description: 最好的迅雷电影下载网，分享最新电影，高清电影、综艺、动漫、电视剧等下载！
         - title: 电影天堂（DYTT8）
           logo: 电影天堂.png
@@ -203,7 +203,7 @@
           description: 射手网-字幕
         - title: 字幕库
           url: http://zmk.pw/
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/favicon.png
+          logo: 字幕库.png
           description: 字幕库
         - title: sub HD分享-字幕
           url: https://subhd.tv/
@@ -475,19 +475,19 @@
           description: 桌面主题下载包括xp和win7电脑主题，还有电脑桌面壁纸都是高清桌面壁纸
         - title: 唯美女生
           url: https://www.vmgirls.com/
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430170938.png
+          logo: 唯美女生.png
           description: 少女情怀总是诗，记录青春少女最美时刻！
         - title: cgwallpapers
           url: https://www.cgwallpapers.com/
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430171107.png
+          logo: cgwallpapers.png
           description: 1080p, 1440p, 4k
         - title: pixivic
           url: https://pixivic.com/ 
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430171203.png
+          logo: pixivic12.png
           description: pixiv网页,插画图片,漫画图片,画画图片,动漫图片,图片素材,壁纸图片
         - title: 6视图
           url: http://6shitu.com/
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220430171502.png
+          logo: 
           description: 免费提供最新最全的高清手机壁纸下载,包括风景、美女、动漫、帅哥、明星
         - title: 彼岸桌面
           url: http://www.netbian.com/
@@ -629,12 +629,36 @@
           description: HTML、CSS 和 JS 框架，用于开发响应式布局
           title: Bootstrap
           logo: https://fastly.jsdelivr.net/npm/@bootcss/v3.bootcss.com@1.0.35/apple-touch-icon.png
-    - term: 前端程序
+    - term: 可用程序
       links:
         - url: https://dplayer.js.org/zh/
           description: 一个视频播放器
           title: DPlayer
           logo: https://dplayer.js.org/logo.png
+        - url: https://kodcloud.com/
+          description: 私有云存储
+          title: 可道云
+          logo: 可道云.ico
+        - url: https://datatables.club/
+          description: 基于jQuery表格插件
+          title: Datatables
+          logo: Datatables.png
+        - url: https://alist.nn.ci/zh/
+          description: 云盘挂载程序
+          title: Alist
+          logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
+        - url: https://cms.jnjddz.com/
+          description: 影视搭建程序
+          title: MacCMS Pro
+          logo: MacCMSPro.ico
+        - url: https://cloudreve.org/
+          description: 部署公私兼备的网盘系统
+          title: Cloudreve
+          logo: https://cloudreve.org/favicon.ico
+        - url: https://www.files.gallery/
+          description: php画廊程序
+          title: files
+          logo: files-logo.svg
     - term: 静态cdn
       links:
         - url: https://www.jq22.com/
@@ -685,12 +709,8 @@
           description: imgURL
           title: imgURL
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/baibaiba.jpg
-    - term: api接口
+    - term: 接口调用
       links:
-        - url: https://www.jinrishici.com/
-          title: 今日诗词
-          description: 诗词api接口
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/icon.png
         - url: https://api.gmit.vip/
           title: 故梦api
           description: 故梦api接口
@@ -699,21 +719,37 @@
           description: 免费API数据接口调用服务平台
           title: 杨小韩api站
           logo: https://api.vvhan.com/favicon.ico
-        - url: https://video.rongxingvr.cn/
-          description: 融兴电影资源采集
-          title: 融兴采集
-          logo: https://video.rongxingvr.cn/favicon.ico
+        - url: https://yuanxiapi.cn/
+          description: 远昔APi接口
+          title: 远昔
+          logo: 
+        - url: https://api.ixiaowai.cn/
+          description: 图片API
+          title: 小歪
+          logo: https://api.ixiaowai.cn/favicon.ico
+        - url: https://www.jinrishici.com/
+          title: 今日诗词
+          description: 诗词api接口
+          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/icon.png
+        - url: https://www.revolvermaps.com/
+          description: 网站访问统计
+          title: 3D地球
+          logo: rmdhwlac.ico
         - url: https://e9u.cn/
           description: 专业域名缩短生成抗封长效不死短链接
           title: 优刻短网址
           logo: https://e9u.cn/static/picture/favicon.ico
         - url: https://9io.net/?url=
-          description: 短链接生成
+          description: 短链接
           title: 9io
           logo: 
         - url: https://i8.gs/
-          description: 短链接生成
+          description: 短链接
           title: i8
+          logo: 
+        - url: https://suo.yt/
+          description: 短链接
+          title: MyUrls
           logo: 
     - term: 其它
       links:
@@ -881,7 +917,7 @@
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/wpzl.ico
 
 - taxonomy: 电脑相关
-  icon: fas fa-puzzle-piece fa-lg
+  icon: fas fa-desktop fa-lg
   list:
     - term: 系统镜像
       links:
@@ -1062,7 +1098,7 @@
         - url: https://toolight.cn/
           description: 偷懒工具
           title: 偷懒工具
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/9234kaq.png
+          logo: 工具盒.png
         - url: https://www.bejson.com/
           description: 在线工具
           title: 在线工具
@@ -1078,7 +1114,7 @@
         - url: https://xbeibeix.com/
           description: 贝贝工具站
           title: 贝贝
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/beibeiaaaadc.jpg
+          logo: 贝贝工具站.jpg
         - url: https://c.runoob.com/
           description: 
           title: 菜鸟工具
