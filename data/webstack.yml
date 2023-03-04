@@ -3,6 +3,10 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
+    - title: 美团客服
+      description: 10101777
+      url: tel:10101777
+      logo: 电话.png
     - title: SSS
       description: 下载Instagram照片,视频,故事,IGTV,REELS
       url: https://sssinstagram.com/zh
