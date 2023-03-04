@@ -393,6 +393,7 @@
           url: https://www.xiaxs.la/
           description: txt小说下载网
           logo: https://www.xiaxs.la/favicon.ico
+
 - taxonomy: 图片相关
   icon: fas fa-images fa-lg
   list:
@@ -879,6 +880,108 @@
           title: 网盘直连
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/wpzl.ico
 
+- taxonomy: 电脑相关
+  icon: fas fa-puzzle-piece fa-lg
+  list:
+    - term: 系统镜像
+      links:
+        - title: MSDN库
+          url: https://www.xitongku.com/
+          description: 原版系统库
+          logo: windows.png
+        - title: TechBench
+          url: https://tb.rg-adguard.net/public.php?lang=zh-CN
+          description: 历史版本
+          logo: windows.png
+        - title: MSDN ITELLYOU
+          url: https://msdn.itellyou.cn/
+          description: 提供可靠的原版软件
+          logo: windows.png
+        - title: NEXT ITELLYOU
+          url: https://next.itellyou.cn/
+          description: 提供可靠的原版软件
+          logo: windows.png
+        - title: Deepin
+          url: https://www.deepin.org/index/zh
+          description: 基于Linux的开源国产操作系统
+          logo: Deepin.ico
+        - title: CentOS
+          url: https://www.centos.org/
+          description: CentOS系统
+          logo: CentOS.png
+    - term: 软件下载
+      links:
+        - title: Microsoft
+          url: https://apps.microsoft.com/
+          description: Microsoft 应用商店
+          logo: Microsoft.png
+        - title: AlternativeTo
+          url: https://alternativeto.net/
+          description: 寻找替代软件
+          logo: AlternativeTo.ico
+        - title: 软件先锋
+          url: https://soft.macxf.com/
+          description: 电脑软件‘需要登录’
+          logo: 软件先锋.ico
+    - term: 软件官网
+      links:
+        - title: Technologies
+          url: http://www.winstep.net/
+          description: 桌面美化
+          logo: //www.winstep.net/favicon.ico
+        - title: 致美化
+          url: https://zhutix.com/
+          description: 最专业的桌面美化交流平台
+          logo: 致美化.png
+        - title: Watt Toolkit
+          url: https://steampp.net/
+          description: 网路与游戏加速，Steam++官网
+          logo: Toolkit.svg
+        - title: Snipaste
+          url: https://zh.snipaste.com/
+          description: 截图 + 贴图
+          logo: Snipaste.svg
+        - title: Hitomi
+          url: https://github.com/KurtBestor/Hitomi-Downloader
+          description: 下载工具，可以下载很多网站的视频与图片
+          logo: 
+        - title: 哔哩下载姬
+          url: https://github.com/leiurayer/downkyi
+          description: 哔哩哔哩视频下载工具
+          logo: 
+        - title: ReNamer
+          url: https://www.den4b.com/products/renamer
+          description: 批量重命名工具
+          logo: apple-touch-icon.png
+        - title: DropIt
+          url: http://www.dropitproject.com/
+          description: 自动管理文件的个人助理
+          logo: 
+        - title: Geek
+          url: https://geekuninstaller.com/
+          description: 非常好用的卸载软件
+          logo: Geek.ico
+        - title: IDM
+          url: https://www.idmchina.net/
+          description: IDM下载器
+          logo: dim下载.ico
+        - title: 格式化工厂
+          url: http://www.pcgeshi.com/index.html
+          description: 多功能的多媒体文件转换工具
+          logo: 格式化工厂.png
+        - title: faceswap
+          url: https://faceswap.dev/download/
+          description: 换脸工具
+          logo: faceswap.png
+        - title: 梦幻社区
+          url: https://drea.cc/
+          description: QQ框架、机器人
+          logo: 梦幻社区.png
+        - title: CloudDrive2
+          url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1729226
+          description: WebDAV挂载‘吾爱更新地址’
+          logo: 
+
 - taxonomy: 插件扩展
   icon: fas fa-puzzle-piece fa-lg
   list:
@@ -942,6 +1045,7 @@
           description: via浏览器
           title: via插件
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502184925.png
+
 - taxonomy: 在线工具
   icon: fas fa-tools fa-lg
   list:
@@ -1117,6 +1221,7 @@
           description: 
           title: JS混淆器
           logo: 
+
 - taxonomy: 沟通相关
   icon: fas fa-comments fa-lg
   list: 
@@ -1515,7 +1620,6 @@
           url: http://ppt.500d.me/
           logo: 500d.png
           description: 中国领先的PPT模板共享平台。
-      
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
@@ -1686,6 +1790,7 @@
           url: https://www.imooc.com/
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
+
 - taxonomy: 娱乐游戏
   icon: fas fa-dice-d20 fa-lg
   list: 
