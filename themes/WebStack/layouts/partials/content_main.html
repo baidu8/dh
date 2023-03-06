@@ -14,13 +14,15 @@
             </div>
             <!--获取内容列表-->
             <!-- 测试 -->
+            {{ else }}
             <script type="text/javascript">
                 if (screen.width<640)
-                    document.write("{{ .adap }}");
+                    document.write('{{ .adap }}');
                 else
-                    document.write("{{ .adpc }}");
+                    document.write('{{ .adpc }}');
             </script>
             <br />
+            {{ end }}
             <!-- 测试 -->
             <div class="row">
                 {{ range .links }}
