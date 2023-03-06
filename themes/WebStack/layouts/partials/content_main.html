@@ -65,14 +65,6 @@
                 </div>
                 {{ end }}
             </div><!--end row-->
-            <!-- 测试 -->
-            <script type="text/javascript">
-                if (screen.width<640)
-                    document.write('{{ .adap }}');
-                else
-                    document.write('{{ .adpc }}');
-            </script>
-            <!-- 测试 -->
 
             <br />
             <!--END {{ .term }} -->
@@ -88,6 +80,14 @@
                 <!--div class="flex-fill"></div>
                 <a class='btn-move text-xs' href='#'>more+</a-->
             </div>
+            <!-- 测试 -->
+            <script type="text/javascript">
+                if (screen.width<640)
+                    document.write('{{ .adap }}');
+                else
+                    document.write('{{ .adpc }}');
+            </script>
+            <!-- 测试 -->
             <!--获取内容列表-->
             <div class="row">
                 {{ range .links }}
