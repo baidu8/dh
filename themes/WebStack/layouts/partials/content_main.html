@@ -13,6 +13,15 @@
                 <!--a class='btn-move text-xs' href='#'>more+</a-->
             </div>
             <!--获取内容列表-->
+            <!-- 测试 -->
+            <script type="text/javascript">
+                if (screen.width<640)
+                    document.write('{{ .adap }}');
+                else
+                    document.write('{{ .adpc }}');
+            </script>
+            <br />
+            <!-- 测试 -->
             <div class="row">
                 {{ range .links }}
                 <div class="url-card col-6  col-sm-6 col-md-4 col-xl-5a col-xxl-6a">
@@ -80,14 +89,6 @@
                 <!--div class="flex-fill"></div>
                 <a class='btn-move text-xs' href='#'>more+</a-->
             </div>
-            <!-- 测试 -->
-            <script type="text/javascript">
-                if (screen.width<640)
-                    document.write('{{ .adap }}');
-                else
-                    document.write('{{ .adpc }}');
-            </script>
-            <!-- 测试 -->
             <!--获取内容列表-->
             <div class="row">
                 {{ range .links }}
