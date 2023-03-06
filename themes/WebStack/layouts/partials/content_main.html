@@ -65,7 +65,14 @@
                 </div>
                 {{ end }}
             </div><!--end row-->
-
+<!-- 测试 -->
+<script type="text/javascript">
+    if (screen.width<640)
+        document.write('{{ .adap }}');
+    else
+        document.write('{{ .adpc }}');
+</script>
+<!-- 测试 -->
             <br />
             <!--END {{ .term }} -->
             {{ end }}
