@@ -4,15 +4,6 @@
             {{ range .list }}
 	    <!--正文网址导航-->
             <!-- {{ .term }} -->
-            <!-- 测试 -->
-            <script type="text/javascript">
-                if (screen.width<640)
-                    document.write('{{ .adap }}');
-                else
-                    document.write('{{ .adpc }}');
-            </script>
-            <br />
-            <!-- 测试 -->
             <div class="d-flex flex-fill">
                 <h4 class="text-gray text-lg mb-4">
                     <i class="site-tag iconfont icon-tag icon-lg mr-1" id="{{ md5 .term }}"></i>
@@ -74,6 +65,14 @@
                 </div>
                 {{ end }}
             </div><!--end row-->
+            <!-- 测试 -->
+            <script type="text/javascript">
+                if (screen.width<640)
+                    document.write('{{ .adap }}');
+                else
+                    document.write('{{ .adpc }}');
+            </script>
+            <!-- 测试 -->
 
             <br />
             <!--END {{ .term }} -->
