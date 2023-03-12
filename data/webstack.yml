@@ -503,6 +503,40 @@
           url: https://chewan.org/
           logo: https://chewan.org/favicon.png
           description: 东方Project,车万Project,东方,车万,博丽灵梦,大小姐,二小姐,吸血鬼,红魔馆,红魔乡,幻想乡,同人,魔理莎
+    - term: 以图搜图
+      links:
+        - title: 谷歌识图
+          logo: https://webstack.cc/assets/images/logos/google.png
+          url: https://google.com/imghp
+          description: 🧱
+        - title: 百度识图
+          logo: https://bjhstatic.cdn.bcebos.com/fe-react-register/static/media/baidu.04b11000.png
+          url: https://graph.baidu.com/pcpage/index?tpl_from=pc
+          description: 偏向中文网站图片资源搜索
+        - title: 必应可视化搜索
+          logo: https://cn.bing.com/sa/simg/favicon-trans-bg-blue-mg.ico
+          url: https://cn.bing.com/visualsearch
+          description: 由微软必应出品的视觉搜索引擎，支持植物、商品、家具、狗狗、文字、人物、建筑等特色搜索。
+        - title: 搜狗识图
+          logo: 搜狗微信.jpg
+          url: https://pic.sogou.com/
+          description: 通用识图，猫狗识别，明星识别，找高清大图
+        - title: Yandex.Images
+          logo: 
+          url: https://yandex.com/images/
+          description: Yandex 是俄罗斯用户最多的网站。效果相当给力，其它搜索引擎找不到的话用它试试，没准有惊喜哦
+        - title: TinEye
+          logo: 
+          url: https://www.tineye.com/
+          description: 🧱老牌以图识图搜索网站，资源丰富。安装浏览器插件后可通过右键菜单直接使用。
+        - title: What Anime Is This
+          logo: 
+          url: https://trace.moe/
+          description: 动漫视频截图识别，找动漫必备！通过动漫视频截图，搜索所截动画图片的来源，获得所截图片的片段位置和来源信息
+        - title: SauceNAO Image Search
+          logo: 
+          url: https://saucenao.com/
+          description: SauceNAO 是一个知名的图片逆向搜索引擎，尤其对于动画、漫画、插画作品、二次元图片等有着非常不错的识图搜索效果
     - term: 图片工具
       links:
         - title: ProcessOn
@@ -849,8 +883,41 @@
           logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
     - term: 盘搜工具
       links:
+        - url: https://yiso.fun/
+          title: 易搜
+          description: 阿里云盘、百度网盘、夸克网盘、迅雷云盘四大网盘免费搜索！（支持用户投稿，投稿数量无限制，投完秒收录，立即就能查的到）
+        - url: https://www.cuppaso.fun/
+          title: 咔帕搜索
+          description: 坚持用心做最简单的综合云盘资源搜索引擎，并且永久免费使用无广告做绿色搜索引擎！（支持七大网盘搜索！是国内目前支持网盘搜索数量最多的搜索引擎！）
+        - url: https://pan.qianfan.app/
+          title: 千帆搜索
+          description: 支持阿里百度蓝奏天翼夸克迅雷六大网盘搜索——坚持做最好用的聚合网盘搜索引擎，服务你我他，深藏功与名！
+        - url: https://www.alipansou.com/
+          title: 猫狸盘搜
+          description: 原阿里盘搜已经改名喵哩盘搜，电脑端使用不是很方便，比较适合手机端浏览，影视娱乐资源偏多，学习资源较少（底部可以跳转百度盘搜和天翼盘搜）
+        - url: https://www.niceso.fun/
+          title: 奈斯搜索
+          description: 阿里云盘搜索引擎，需要注册登录才能使用，站长同时也是Imyshare的站长
+        - url: https://zhaoziyuan.la/
+          title: 找资源
+          description: 【需注册登录使用，有广告】找资源，阿里云盘搜索引擎，快速搜索阿里云盘资源，24H不间断更新，24H自动检测失效链接，查看最新资源刷新首页即可！
+        - url: https://jujuso.com/
+          title: 优聚搜
+          description: 三大热门网盘都能搜，大部分热门资源可以在这里找到，还是找不到的话可以试试其他搜索引擎。需要注册登录才可以使用，已经支持用户投稿
+        - url: https://yougit.net/
+          title: YOUGIT
+          description: 阿里云蓝奏云搜
+        - url: https://pan.ccof.cc/
+          title: YaPan Yapan
+          description: 一款超级简洁的免费无广告阿里云盘检索工具
+        - url: https://dapanso.com/
+          title: 大盘搜[付费]
+          description: 大盘搜——阿里云盘资源搜索，需要付费才能获取搜索结果，15元起步（比大力盘要贵5元）
+        - url: https://www.iizhi.cn/
+          title: 毕方铺[付费]
+          description: 支持百度网盘、阿里云盘、夸克网盘搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度云网盘资源，每天更新海量资源。【可投稿资源可发表求助，但需要注册登录还要付费至少10元才能获取搜索结果，看个人能力吧】
         - url: https://www.upyunso.com
-          description: 阿里云搜
+          description: 最好用的阿里网盘搜索网站，收录了各大网友投稿的上万份阿里网盘资源链接，资源很全，可以精确搜索到网盘里面所有文件的名字，支持用户投稿
           title: UP云搜
           logo: 百度网盘.jpg
         - url: https://www.yubaipan.com
@@ -901,6 +968,74 @@
           description: 来搜一下
           title: 来搜一下
           logo: 百度网盘.jpg
+    - term: 云盘论坛
+      links:
+        - url: https://u.gitcafe.net/
+          title: 小纸条
+          description: 【小纸条：开放纯粹的阿里云盘资源链接收集网】严格来说不能算是网盘资源论坛，只能发资源链接，支持站内搜索关键词，支持用户投稿
+        - url: https://jujuso.com/
+          title: 优聚搜
+          description: 三大热门网盘都能搜，大部分热门资源可以在这里找到，还是找不到的话可以试试其他搜索引擎。需要注册登录才可以使用，已经支持用户投稿
+        - url: https://daiguaji.com/
+          title: 网盘资源站 致力于为用户打造最好用的资源共享网站，好资源不私藏！ 免费注册登陆即可分享获取资源！让资源更有价值
+          description:
+        - url: https://m.sousou.pro/
+          title: 阿里资源站
+          description: 阿里云盘资源站
+        - url: https://www.42958.com/
+          title: 网盘分享吧
+          description: 老网盘分享论坛
+        - url: https://www.yunpanziyuan.com/
+          title: 云盘资源网
+          description: 阿里云盘资源偏多
+        - url: https://www.kkpans.com/
+          title: KK网盘资源
+          description: 夸克网盘资源老版论坛
+        - url: http://bbs.kkzys.com/
+          title: 酷酷资源社
+          description: 【最新夸克资源论坛】做一个有价值的网盘资源分享论坛！
+        - url: https://kkxz.vip/
+          title: 夸克小站
+          description: 夸克网盘资源共享站
+        - url: https://www.120800.com/
+          title: 夸夸社区
+          description: 夸克网盘资源社区
+        - url: http://haoduo.cc/
+          title: 好多社区
+          description: 简单快捷的网盘资源分享社区
+        - url: https://www.qitabbs.com/circle/study
+          title: 奇它论坛
+          description: 阿里云盘天翼云盘微博式论坛，需要注册登录才可以获取资源
+        - url: https://pan666.cn/
+          title: 我的小站
+          description: 阿里云盘资源共享社区
+        - url: https://wpxz.org/
+          title: 网盘小站
+          description: 阿里云盘资源共享小站
+        - url: https://www.panpanr.com/
+          title: 阿里盘盘
+          description: 阿里盘盘，阿里云盘资源小论坛
+        - url: https://yunpan1.24kdh.cn/
+          title: 云盘资源
+          description: 分享社区 云盘资源分享社区
+        - url: https://drivebbs.com/
+          title: 阿里云盘社区
+          description: 老版阿里云盘资源分享论坛
+        - url: http://vc87.top/
+          title: 小奇资源库
+          description: 小奇资源库 - 做一个有价值的网盘资源分享论坛！
+        - url: https://www.chidao365.com/
+          title: 赤道365论坛
+          description: 经典网盘分享论坛
+        - url: https://www.iizhi.cn/
+          title: 毕方铺[付费]
+          description: 支持百度网盘、阿里云盘、夸克网盘搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度云网盘资源，每天更新海量资源。【可投稿资源可发表求助，但需要注册登录还要付费至少10元才能获取搜索结果，看个人能力吧】
+        - url: https://ifree8.com/archives/cyclub
+          title: 知识船仓
+          description: 【仅限成年人加入】这是一个由船长组建的共享、共识、共学的公益类知识共建社群（站长也在里面），拓宽你的知识和人脉，进行跨界交流与合作，让一路成长的你能找到更多志同道合的朋友，一起结伴同行，不惧未来之变局，不负此生之芳华~
+        - url: https://www.fqpan.com/
+          title: 番茄盘
+          description: 番茄盘搜索（www.fqpan.com）是一个资源超丰富的综合资源搜索与投稿网站,番茄盘搜索专注于收录全网综合盘资源，包括：影视资源、音乐资源、图片资源、电子书资源、软件资源、小说资源等等。支持用户投稿与评论。
     - term: 临时传输
       links:
         - url: https://gofile.io/
