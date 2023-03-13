@@ -2,9 +2,9 @@
   icon: fa fa-home
   link: "./"
 
-- item: 博客
+- item: ceshi
   icon: fa fa-blog
-  link: /
+  link: /acd
 
 # - item: 配置
 #   icon: fa fa-cog

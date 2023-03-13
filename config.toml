@@ -13,7 +13,7 @@ hasCJKLanguage        = true
     description   = "一个网址导航站" # 描述
     siteurl       = "./"
     upload        = ""  # 左侧导航栏的"网站提交"
-    about         = "./about"   # 左侧导航栏的"关于导航"页面(./about)
+    about         = ""   # 左侧导航栏的"关于导航"页面(./about)
     repository    = ""  
     enablePreLoad = true		    		           # 网站完全打开前预加载动画
     textPreLoad   = "江小白导航" 		           # 预加载的动画文字, 只有当enablePreLoad=true时生效
