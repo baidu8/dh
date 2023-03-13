@@ -2,9 +2,9 @@
   icon: fa fa-home
   link: "./"
 
-- item: ceshi
+- item: 博客
   icon: fa fa-blog
-  link: /acd
+  link: "https://uusb.cf"
 
 # - item: 配置
 #   icon: fa fa-cog
