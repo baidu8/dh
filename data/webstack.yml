@@ -584,6 +584,726 @@
           logo: svgomg.png
           description: SVG 在线压缩平台。
 
+- taxonomy: ACG导航
+  icon: fas fa-frog fa-lg
+  list: 
+    - term: 资源社区
+      links:
+        - title: ぽむの部屋
+          url: "https://pom-official.jp
+          description: 七濑胡桃画师的博客
+          logo: https://api.iowen.cn/favicon/pom-official.jp.png
+        - title: 幻天领域
+          url: "https://www.acgns.org
+          description: 二次元动漫爱好者之家 - ACGN...
+          logo: https://api.iowen.cn/favicon/www.acgns.org.png
+        - title: elfartworld
+          url: "https://elfartworld.com
+          description: E站，为二次元画师以及写手提...
+          logo: https://api.iowen.cn/favicon/elfartworld.com.png
+        - title: HPOI手办
+          url: "https://www.hpoi.net
+          description: 集资讯、资料，舔图、晒图的...
+          logo: https://api.iowen.cn/favicon/www.hpoi.net.png
+        - title: 天使次元
+          url: "https://www.tianshi2.cc
+          description: 专注ACG，主攻Galgame，兼攻C...
+          logo: https://api.iowen.cn/favicon/www.tianshi2.cc.png
+        - title: 漫游论坛
+          url: "https://bbs.popgo.org
+          description: acg论坛
+          logo: https://api.iowen.cn/favicon/bbs.popgo.org.png
+        - title: KDays
+          url: "https://kdays.net
+          description: 综合资源交流社区，主打GalGa...
+          logo: https://api.iowen.cn/favicon/kdays.net.png
+        - title: 小可耐游戏屋
+          url: "https://missdh.com
+          description: 注册后资源免费下载,每天更新
+          logo: https://api.iowen.cn/favicon/missdh.com.png
+        - title: Hikarinoakari
+          url: "https://hikarinoakari.com
+          description: 推荐，ACG高音质音乐CD下载，...
+          logo: https://api.iowen.cn/favicon/hikarinoakari.com.png
+        - title: stage1/s1
+          url: "https://bbs.saraba1st.com
+          description: 著名游戏动漫论坛
+          logo: https://api.iowen.cn/favicon/bbs.saraba1st.com.png
+        - title: 游戏盘
+          url: "https://mqqacg.cn
+          description: 需要登录|游戏动漫网盘
+          logo: https://api.iowen.cn/favicon/mqqacg.cn.png
+        - title: Key Fans Club
+          url: "https://hikarinoakari.com
+          description: Key社游戏专门论坛
+          logo: https://api.iowen.cn/favicon/hikarinoakari.com.png
+        - title: 星空论坛
+          url: "https://bbs2.seikuu.com
+          description: 论坛出了几位良心的汉化者而出名
+          logo: https://api.iowen.cn/favicon/bbs2.seikuu.com.png
+        - title: NGA玩家社区
+          url: "https://bbs.nga.cn
+          description: 综合类玩家社区
+          logo: https://api.iowen.cn/favicon/bbs.nga.cn.png
+        - title: 萌站
+          url: "https://www.mengzhan16.com
+          description: 小众网站
+          logo: https://api.iowen.cn/favicon/www.mengzhan16.com.png
+        - title: 扶她404
+          url: "https://www.futa404.com
+          description: ACG资讯站，知名度较大
+          logo: https://api.iowen.cn/favicon/www.futa404.com.png
+        - title: 天使动漫论坛
+          url: "https://www.tsdm39.net
+          description: 人气很高，论坛非常活跃
+          logo: https://api.iowen.cn/favicon/www.tsdm39.net.png
+        - title: 幻想次元
+          url: "https://hxcy.moe
+          description: 不要用代理。
+          logo: https://api.iowen.cn/favicon/hxcy.moe.png
+        - title: 澄空学园
+          url: "https://bbs.sumisora.net
+          description: 国内著名汉化组社区
+          logo: https://api.iowen.cn/favicon/bbs.sumisora.net.png
+        - title: Hpoi手办维基
+          url: "https://www.hpoi.net
+          description: 手办维基|手办大全
+          logo: https://api.iowen.cn/favicon/www.hpoi.net.png
+        - title: MyAnimeList
+          url: "https://myanimelist.net
+          description: 番剧图书馆（包含里番），英...
+          logo: https://api.iowen.cn/favicon/myanimelist.net.png
+        - title: 萌系游戏大赏
+          url: "https://moe-gameaward.com
+          description: 萌系游戏大赏是日本一个评选...
+          logo: https://api.iowen.cn/favicon/moe-gameaward.com.png
+        - title: Bangumi番组计划
+          url: "https://bgm.tv
+          description: Bangumi番组计划：专注于动漫...
+          logo: https://api.iowen.cn/favicon/bgm.tv.png
+        - title: vgmdb
+          url: "https://vgmdb.net
+          description: 欧美著名acg音乐图书馆
+          logo: https://api.iowen.cn/favicon/vgmdb.net.png
+        - title: anidb
+          url: "https://anidb.net
+          description: 欧美著名日本动漫图书馆&amp;评分...
+          logo: https://api.iowen.cn/favicon/anidb.net.png
+        - title: vndb
+          url: "https://vndb.org
+          description: 全称：thevisualnoveldatabase
+          logo: https://api.iowen.cn/favicon/vndb.org.png
+        - title: 稻叽网ACG
+          url: "https://zaodaoji.com
+          description: 
+          logo: https://api.iowen.cn/favicon/zaodaoji.com.png
+        - title: 猫之秋名山
+          url: "https://sakura.myacgcat.top
+          description: 
+          logo: https://api.iowen.cn/favicon/sakura.myacgcat.top.png
+        - title: 初音社
+          url: "https://www.mikuclub.xyz
+          description: 
+          logo: https://api.iowen.cn/favicon/www.mikuclub.xyz.png
+        - title: 次元计划
+          url: https://acg02.net
+          description: 
+          logo: https://api.iowen.cn/favicon/acg02.net.png
+        - title: 爱弹幕
+          url: https://idanmu.im
+          description: 
+          logo: https://api.iowen.cn/favicon/idanmu.im.png
+        - title: 萌次元
+          url: https://18moe.vip
+          description: 
+          logo: https://api.iowen.cn/favicon/18moe.vip.png
+        - title: 新♥次元
+          url: https://newacg.moe
+          description: 
+          logo: https://api.iowen.cn/favicon/newacg.moe.png
+        - title: 绅士咖啡厅
+          url: https://www.dmoe.in
+          description: 
+          logo: https://api.iowen.cn/favicon/www.dmoe.in.png
+        - title: 暗萌
+          url: https://www.dmoe.in
+          description: 
+          logo: https://api.iowen.cn/favicon/www.dmoe.in.png
+        - title: 绅士天空网
+          url: https://skyacg1.com
+          description: 
+          logo: https://api.iowen.cn/favicon/skyacg1.com.png
+        - title: ACG爱动漫
+          url: https://www.aidm12.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.aidm12.com.png
+        - title: 萌姬次元
+          url: https://www.aecy.me
+          description: 
+          logo: https://api.iowen.cn/favicon/www.aecy.me.png
+        - title: 萌站
+          url: https://www.mengzhan.me
+          description: 
+          logo: https://api.iowen.cn/favicon/www.mengzhan.me.png
+        - title: 韩国条漫
+          url: http://www.tiaoman5.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.tiaoman5.com.png
+        - title: 啊咧咧动漫网
+          url: https://rllacg.com
+          description: 
+          logo: https://api.iowen.cn/favicon/rllacg.com.png
+        - title: EDD动漫
+          url: https://www.edddh4.com/dongman
+          description: 
+          logo: https://api.iowen.cn/favicon/www.edddh4.com.png
+        - title: TinaACG视频网
+          url: https://tinaacg.net
+          description: 
+          logo: https://api.iowen.cn/favicon/tinaacg.net.png
+        - title: laughseejapan
+          url: https://laughseejapan.com
+          description: 
+          logo: https://api.iowen.cn/favicon/laughseejapan.com.png
+        - title: 呀哩动漫
+          url: https://www.yaliyali.cc
+          description: 
+          logo: https://api.iowen.cn/favicon/www.yaliyali.cc.png
+        - title: 新时空动漫
+          url: https://www.xskdm.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.xskdm.com.png
+        - title: 星星动漫网
+          url: http://www.xxdm8.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.xxdm8.com.png
+        - title: 霹雳动漫社区
+          url: https://piliacg.cn
+          description: 
+          logo: https://api.iowen.cn/favicon/piliacg.cn.png
+        - title: 淘米动漫
+          url: http://v.61.com
+          description: 
+          logo: https://api.iowen.cn/favicon/v.61.com.png
+        - title: ACG饭团
+          url: https://acgfantuan.com
+          description: 
+          logo: https://api.iowen.cn/favicon/acgfantuan.com.png
+        - title: 弥生寺
+          url: https://msiv.tv
+          description: 
+          logo: https://api.iowen.cn/favicon/msiv.tv.png
+        - title: 多次元动漫网
+          url: http://www.dcybk.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.dcybk.com.png
+        - title: 2345动漫大全
+          url: http://dongman.2345.com
+          description: 
+          logo: https://api.iowen.cn/favicon/dongman.2345.com.png
+        - title: 八重樱动漫
+          url: https://iafuns.com
+          description: 
+          logo: https://api.iowen.cn/favicon/iafuns.com.png
+        - title: YuC's AnimeList
+          url: https://yuc.wiki
+          description: 
+          logo: https://api.iowen.cn/favicon/yuc.wiki.png
+        - title: 卡卡动漫
+          url: https://www.kakadm.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.kakadm.com.png
+        - title: 天马动漫
+          url: https://www.tmdm.tv
+          description: 
+          logo: https://api.iowen.cn/favicon/www.tmdm.tv.png
+        - title: ANi Open
+          url: https://aniopen.a-ni.workers.dev
+          description: 
+          logo: https://api.iowen.cn/favicon/aniopen.a-ni.workers.dev.png
+        - title: 奇米奇米
+          url: http://www.qimiqimi.net
+          description: 
+          logo: https://api.iowen.cn/favicon/www.qimiqimi.net.png
+        - title: 萌语动漫
+          url: http://ci.moefz.cc
+          description: 
+          logo: https://api.iowen.cn/favicon/ci.moefz.cc.png
+        - title: 动漫岛
+          url: http://www.dmd55.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.dmd55.com.png
+        - title: 双辞ACG
+          url: https://www.scdmfun.cn
+          description: 
+          logo: https://api.iowen.cn/favicon/www.scdmfun.cn.png
+        - title: 米粒米粒
+          url: http://www.milimili.in
+          description: 
+          logo: https://api.iowen.cn/favicon/www.milimili.in.png
+        - title: AcFun
+          url: https://m.acfun.cn
+          description: 
+          logo: https://api.iowen.cn/favicon/m.acfun.cn.png
+        - title: 橘子动漫
+          url: https://www.mgnacg.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.mgnacg.com.png
+        - title: 喔喔动漫网
+          url: https://www.wowodm.net
+          description: 
+          logo: https://api.iowen.cn/favicon/www.wowodm.net.png
+        - title: 偏态动漫
+          url: https://www.ptdiao.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.ptdiao.com.png
+        - title: 番组放送
+          url: https://bgmlist.com
+          description: 
+          logo: https://api.iowen.cn/favicon/bgmlist.com.png
+        - title: 哔哩哔哩
+          url: http://www.bilibili.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.bilibili.com.png
+        - title: 动漫屋
+          url: http://www.dm5.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.dm5.com.png
+        - title: 嘶哩嘶哩
+          url: http://www.silisili.in
+          description: 
+          logo: https://api.iowen.cn/favicon/www.silisili.in.png
+        - title: D站
+          url: https://www.5dm.app
+          description: 
+          logo: https://api.iowen.cn/favicon/www.5dm.app.png
+        - title: 樱花动漫
+          url: http://www.imomoe.jp
+          description: 
+          logo: https://api.iowen.cn/favicon/www.imomoe.jp.png
+        - title: 233动漫网
+          url: https://www.dm233.cc
+          description: 
+          logo: https://api.iowen.cn/favicon/www.dm233.cc.png
+        - title: ZzzFun动漫视频网
+          url: http://www.zzzfun.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.zzzfun.com.png
+        - title: AGE动漫
+          url: https://agefans.tw
+          description: 咿呀咿呀哟
+          logo: https://api.iowen.cn/favicon/agefans.tw.png
+    - term: 动漫天堂
+      links:
+        - title: ZZZfun
+          url: http://www.zzzfun.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.zzzfun.com.png
+        - title: 樱花动漫
+          url: http://www.yinghuacd.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.yinghuacd.com.png
+        - title: 路漫漫
+          url: https://www.92cj.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.92cj.com.png
+        - title: Omofun
+          url: https://omofun.tv
+          description: 
+          logo: https://api.iowen.cn/favicon/omofun.tv.png
+        - title: Mikan
+          url: https://mikanani.me
+          description: 
+          logo: https://api.iowen.cn/favicon/mikanani.me.png
+        - title: 简单动漫
+          url: https://www.36dm.club
+          description: 
+          logo: https://api.iowen.cn/favicon/www.36dm.club.png
+        - title: 风车动漫
+          url: https://www.92wuc.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.92wuc.com.png
+        - title: 布米米
+          url: https://www.bimiacg4.net
+          description: 
+          logo: https://api.iowen.cn/favicon/www.bimiacg4.net.png
+        - title: 陌陌动漫
+          url: https://www.mddm.tv
+          description: M站
+          logo: https://api.iowen.cn/favicon/www.mddm.tv.png
+        - title: VCB-Studio
+          url: https://bbs.acgrip.com
+          description: 动画字幕共享站，ACG字幕分享...
+          logo: https://api.iowen.cn/favicon/bbs.acgrip.com.png
+        - title: AcgnHub
+          url: http://www.acgfans.me
+          description: ACG动漫导航网站
+          logo: https://api.iowen.cn/favicon/www.acgfans.me.png
+        - title: 次元城
+          url: https://www.cycdm01.top
+          description: 高质量在线动漫
+          logo: https://api.iowen.cn/favicon/www.cycdm01.top.png
+        - title: 百宝袋动漫
+          url: https://www.bbddm.com
+          description: 无需注册，完全免费
+          logo: https://api.iowen.cn/favicon/www.bbddm.com.png
+        - title: OmoFun动漫视频网
+          url: https://omofun.tv
+          description: 更新较快，画质较高，有弹幕
+          logo: https://api.iowen.cn/favicon/omofun.tv.png
+        - title: 233动漫网
+          url: https://www.dm233.me
+          description: 适合看新番，加载速度较慢
+          logo: https://api.iowen.cn/favicon/www.dm233.me.png
+        - title: 风车动漫
+          url: http://www.dmlaa.com
+          description: 资源较全，视频加载速度好评...
+          logo: https://api.iowen.cn/favicon/www.dmlaa.com.png
+        - title: E-ACG
+          url: https://eacg.net
+          description: 画质一般，内容较全
+          logo: https://api.iowen.cn/favicon/eacg.net.png
+        - title: 欧派动漫
+          url: http://154.91.122.125
+          description: 某不知名小站，但更新勤快
+          logo: https://api.iowen.cn/favicon/154.91.122.125.png
+        - title: 哔咪动漫/M站
+          url: https://www.bimiacg.ne
+          description: 界面类似B站，可以找到冷门番
+          logo: https://api.iowen.cn/favicon/www.bimiacg.ne.png
+        - title: ebb
+          url: https://ebb.io
+          description: 需要登入后才能观看，实时更...
+          logo: https://api.iowen.cn/favicon/ebb.io.png
+        - title: 萌番组
+          url: https://bangumi.moe
+          description: 名次比起其它站点来说不大
+          logo: https://api.iowen.cn/favicon/bangumi.moe.png
+        - title: 末日動漫資源庫
+          url: https://share.acgnx.se
+          description: 部分番剧有4K资源，非常齐全
+          logo: https://api.iowen.cn/favicon/share.acgnx.se.png
+        - title: 菲特动漫
+          url: https://fitacg.com
+          description: 【推荐】新番资源推送速度快...
+          logo: https://api.iowen.cn/favicon/fitacg.com.png
+        - title: 星宫BT
+          url: https://bt.cosxcos.cc
+          description: 综合ACG资源bt下载站，请自备...
+          logo: https://api.iowen.cn/favicon/bt.cosxcos.cc.png
+        - title: acg23
+          url: https://www.acg23.com
+          description: 综合动漫，ACG资源种子下载
+          logo: https://api.iowen.cn/favicon/www.acg23.com.png
+        - title: 東京図書館
+          url: https://www.tokyotosho.info
+          description: 国外bt下载站，请自备科学工具
+          logo: https://api.iowen.cn/favicon/www.tokyotosho.info.png
+        - title: Anidex
+          url: https://anidex.info
+          description: 国外bt下载站，进不去就挂ti
+          logo: https://api.iowen.cn/favicon/anidex.info.png
+        - title: niconico
+          url: https://anime.nicovideo.jp
+          description: 日本bilibili，需要科学工具...
+          logo: https://api.iowen.cn/favicon/anime.nicovideo.jp.png
+    - term: ACG游戏
+      links:
+        - title: nene与她的宝藏
+          url: https://gal.lspl.ml/gal
+          description: 
+          logo: https://api.iowen.cn/favicon/gal.lspl.ml.png
+        - title: 誠也の部屋
+          url: https://seiya-saiga.com/save.html
+          description: 
+          logo: https://api.iowen.cn/favicon/seiya-saiga.com.png
+        - title: IVIS
+          url: https://ivis.tv/landing
+          description: 
+          logo: https://api.iowen.cn/favicon/ivis.tv.png
+        - title: Mikocon
+          url: https://www.mikocon.com/forum.php
+          description: 
+          logo: https://api.iowen.cn/favicon/www.mikocon.com.png
+        - title: 2DJGAME
+          url: https://bbs4.2djgame.net/home/forum.php
+          description: 
+          logo: https://api.iowen.cn/favicon/bbs4.2djgame.net.png
+        - title: 初音的青葱
+          url: https://www.mikugal.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.mikugal.com.png
+        - title: GGBases
+          url: https://www.ggbases.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.ggbases.com.png
+        - title: 量子ACG
+          url: https://lzacg.top
+          description: 
+          logo: https://api.iowen.cn/favicon/lzacg.top.png
+        - title: 幽隐恋梦
+          url: https://ercygame.com
+          description: 
+          logo: https://api.iowen.cn/favicon/ercygame.com.png
+        - title: 05的资源小站
+          url: https://fx05.herokuapp.com/CN
+          description: 
+          logo: https://api.iowen.cn/favicon/fx05.herokuapp.com.png
+        - title: GAL图书馆
+          url: https://www.galgame.pw
+          description: 
+          logo: https://api.iowen.cn/favicon/www.galgame.pw.png
+        - title: 2DFan
+          url: https://galge.fun
+          description: 
+          logo: https://api.iowen.cn/favicon/galge.fun.png
+        - title: 终点论坛
+          url: https://bbs.zdfx.net
+          description: 
+          logo: https://api.iowen.cn/favicon/bbs.zdfx.net.png
+        - title: 量子ACG
+          url: https://lzacg.one
+          description: 提供GalGame汉硬直链下载，资...
+          logo: https://api.iowen.cn/favicon/lzacg.one.png
+        - title: 叽哩叽哩
+          url: https://www.jiligamefun.com
+          description: G站，为ACG爱好者提供最新最...
+          logo: https://api.iowen.cn/favicon/www.jiligamefun.com.png
+        - title: 忧郁的loli_忧郁的弟弟
+          url: https://www.kkgal.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.kkgal.com.png
+        - title: 天使二次元
+          url: https://www.tianshie.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.tianshie.com.png
+        - title: 花火学园
+          url: https://www.sayhuahuo.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.sayhuahuo.com.png
+        - title: GalWorld
+          url: https://acgngame.net
+          description: 
+          logo: https://api.iowen.cn/favicon/acgngame.net.png
+        - title: 绅士天堂
+          url: https://www.acggalgame.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.acggalgame.com.png
+    - term: 动漫下载
+      links:
+        - title: 蜜柑计划
+          url: https://mikanani.me
+          description: 
+          logo: https://api.iowen.cn/favicon/mikanani.me.png
+        - title: NC-Raws
+          url: https://nc.raws.dev
+          description: 
+          logo: https://api.iowen.cn/favicon/nc.raws.dev.png
+        - title: 幻樱字幕组
+          url: http://www.hysub.net
+          description: 
+          logo: https://api.iowen.cn/favicon/www.hysub.net.png
+        - title: 动漫花园资讯网
+          url: https://dmhy.anoneko.com
+          description: 
+          logo: https://api.iowen.cn/favicon/dmhy.anoneko.com.png
+        - title: Nyaa
+          url: https://nyaa.si
+          description: 
+          logo: https://api.iowen.cn/favicon/nyaa.si.png
+        - title: MioBT
+          url: http://miobt.com
+          description: 
+          logo: https://api.iowen.cn/favicon/miobt.com.png
+        - title: ACG.RIP
+          url: https://acg.rip
+          description: 
+          logo: https://api.iowen.cn/favicon/acg.rip.png
+        - title: 爱恋动漫BT下载
+          url: http://www.kisssub.org
+          description: 
+          logo: https://api.iowen.cn/favicon/www.kisssub.org.png
+        - title: 末日动漫资源库
+          url: https://share.acgnx.se
+          description: 
+          logo: https://api.iowen.cn/favicon/share.acgnx.se.png
+        - title: 扶她动漫资源网
+          url: https://futaacg.com
+          description: 
+          logo: https://api.iowen.cn/favicon/futaacg.com.png
+    - term: acg导航
+      links:
+        - title: 翼萌导航
+          url: https://www.yimoe.cn
+          description: 
+          logo: https://api.iowen.cn/favicon/www.yimoe.cn.png
+        - title: 二次元导航
+          url: http://www.2cydh.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.2cydh.com.png
+        - title: 推次元
+          url: http://moe.t2cy.com
+          description: 
+          logo: https://api.iowen.cn/favicon/moe.t2cy.com.png
+        - title: 万萌导航
+          url: https://hao.wanmoe.cn
+          description: 
+          logo: https://api.iowen.cn/favicon/hao.wanmoe.cn.png
+        - title: 萌站·次元导航
+          url: http://www.moe321.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.moe321.com.png
+        - title: 萌导航
+          url: https://www.moe123.net
+          description: 
+          logo: https://api.iowen.cn/favicon/www.moe123.net.png
+        - title: ACG油条
+          url: https://acg.yt
+          description: 
+          logo: https://api.iowen.cn/favicon/acg.yt.png
+        - title: 二刺螈导航
+          url: https://www.acg123.co
+          description: 
+          logo: https://api.iowen.cn/favicon/www.acg123.co.png
+        - title: 吾爱二次元
+          url: https://www.52ecy.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.52ecy.com.png
+        - title: 萌导航
+          url: http://www.dmdhw.cn
+          description: 
+          logo: https://api.iowen.cn/favicon/www.dmdhw.cn.png
+        - title: ACG喵导航
+          url: https://www.miaoaaa.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.miaoaaa.com.png
+        - title: 次元猫导航
+          url: https://lolihui.cn
+          description: 
+          logo: https://api.iowen.cn/favicon/lolihui.cn.png
+        - title: MyACG
+          url: https://myacg.xyz
+          description: 
+          logo: https://api.iowen.cn/favicon/myacg.xyz.png
+        - title: ACG盒子
+          url: https://www.acgbox.link
+          description: 
+          logo: https://api.iowen.cn/favicon/www.acgbox.link.png
+    - term: acg社区
+      links:
+        - title: 梦次元
+          url: http://mcyacg.com
+          description: 
+          logo: https://api.iowen.cn/favicon/mcyacg.com.png
+        - title: Happy Yooo!
+          url: https://www.hyacg.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.hyacg.com.png
+        - title: 萌点动漫
+          url: https://moe.ac
+          description: 
+          logo: https://api.iowen.cn/favicon/moe.ac.png
+        - title: 番组计划
+          url: https://bgm.tv
+          description: 
+          logo: https://api.iowen.cn/favicon/bgm.tv.png
+        - title: 越次元
+          url: https://skyacg1.com
+          description: 
+          logo: https://api.iowen.cn/favicon/skyacg1.com.png
+        - title: A岛匿名版
+          url: https://adnmb3.com/Forum
+          description: 
+          logo: https://api.iowen.cn/favicon/adnmb3.com.png
+        - title: 半次元
+          url: https://bcy.net
+          description: 
+          logo: https://api.iowen.cn/favicon/bcy.net.png
+        - title: H萌
+          url: https://hmacg.cn
+          description: 
+          logo: https://api.iowen.cn/favicon/hmacg.cn.png
+        - title: SS同盟
+          url: https://sstm.moe
+          description: 
+          logo: https://api.iowen.cn/favicon/sstm.moe.png
+        - title: 绯月ScarletMoon
+          url: https://bbs.kfmax.com
+          description: 
+          logo: https://api.iowen.cn/favicon/bbs.kfmax.com.png
+        - title: 妖次元
+          url: https://www.acgy.net
+          description: 
+          logo: https://api.iowen.cn/favicon/www.acgy.net.png
+        - title: ACG里世界
+          url: https://acgn.zone
+          description: 
+          logo: https://api.iowen.cn/favicon/acgn.zone.png
+        - title: 月幕Galgame
+          url: https://www.ymgal.com
+          description: 
+          logo: https://api.iowen.cn/favicon/www.ymgal.com.png
+    - term: 次元美图网站
+      links:
+        - title: Anime-pictures
+          url: https://anime-pictures.net
+          description: 全年龄动漫图片和壁纸
+          logo: https://api.iowen.cn/favicon/anime-pictures.net.png
+        - title: SomeACG
+          url: https://someacg.rocks
+          description: 高质量二次元ACG壁纸
+          logo: https://api.iowen.cn/favicon/someacg.rocks.png
+        - title: 摸鱼网
+          url: https://www.mooyuu.com
+          description: 二次元插画网站，内含大量二...
+          logo: https://api.iowen.cn/favicon/www.mooyuu.com.png
+        - title: Pixivic
+          url: https://pixivic.com
+          description: 国内P站画师作品分享及学习交...
+          logo: https://api.iowen.cn/favicon/pixivic.com.png
+        - title: konachan
+          url: https://konachan.net
+          description: 二次元壁纸搜索引擎
+          logo: https://api.iowen.cn/favicon/konachan.net.png
+        - title: zerochan
+          url: https://www.zerochan.net
+          description: 优质二次元壁纸网站
+          logo: https://api.iowen.cn/favicon/www.zerochan.net.png
+        - title: 米画师
+          url: https://www.mihuashi.com
+          description: 万名画师，涵盖各式风格的优...
+          logo: https://api.iowen.cn/favicon/www.mihuashi.com.png
+        - title: elfartworld
+          url: http://elfartworld.com
+          description: E站，为二次元画师以及写手提...
+          logo: https://api.iowen.cn/favicon/elfartworld.com.png
+        - title: 幻想学院
+          url: http://xieexx1.lofter.com
+          description: 幻想学院 - CG,原创,游戏美术...
+          logo: https://api.iowen.cn/favicon/xieexx1.lofter.com.png
+        - title: 哔哩相簿
+          url: https://h.bilibili.com
+          description: bilibili相簿是国内优秀的图...
+          logo: https://api.iowen.cn/favicon/h.bilibili.com.png
+        - title: Saucenao
+          url: https://saucenao.com
+          description: 全球著名图源搜索工具
+          logo: https://api.iowen.cn/favicon/saucenao.com.png
+        - title: 次元小镇
+          url: https://dimtown.com
+          description: 二次元图片，类似P站
+          logo: https://api.iowen.cn/favicon/dimtown.com.png
+    - term: 新番列表
+      links:
+        - title: 动漫资料数据库
+          url: https://www.acwind.net
+          description: 
+          logo: https://api.iowen.cn/favicon/www.acwind.net.png
+        - title: 动漫新番表
+          url: https://hmacg.cn/bangumi
+          description: 
+          logo: https://api.iowen.cn/favicon/hmacg.cn.png
+
 - taxonomy: 代码服务
   icon: fas fa-terminal fa-lg
   list:
