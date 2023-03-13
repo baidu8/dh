@@ -1,0 +1,33 @@
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.13.2/css/jquery.dataTables.min.css"/>
+<link rel="stylesheet" type="text/css" href="//lib.baomitu.com/twitter-bootstrap/latest/css/bootstrap.min.css"/>
+<script type="text/javascript" charset="utf8" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<div class="container"><table id="example" class="display"></table></div>
+<script type="text/javascript" src="//cdn.datatables.net/1.13.2/js/jquery.dataTables.min.js"></script>
+<script>
+function show_date_time() {
+}
+show_date_time(), $(document).ready(function () {
+    $("#example").DataTable({
+        fnPreDrawCallback: function (e) {
+            $(".dataTables_filter input").attr({
+                name: "search",
+                placeholder: "搜索阿里分享链接✍️️"
+            })
+        },
+        dom: "frtip",
+        ordering: !1,
+        stateSave: !0,
+        ajax: "https://gist.githubusercontent.com/baidu8/642d1a1329b530a675860010e751a2db/raw/alfx.json",
+        columns: [{
+            data: "name",
+            title: "名称链接👇"
+        }, {
+            data: "url",
+            title: "点击直达👇",
+            render: function (e, t, o) {
+                return "<a href=" + e + ' target="_blank">' + "点此前往</a>"
+            }
+        }]
+    })
+});
+</script>
