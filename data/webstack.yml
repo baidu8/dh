@@ -72,7 +72,7 @@
     - term: 在线观看
       links:
         - title: 低端影视
-          url: https://ddrk.art/
+          url: https://ddys.art/
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/20220502182415.png
           description: 低端影视 - 超清在线视频站
         - title: 凌云影视
@@ -145,6 +145,10 @@
           logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/ewqvmdr10.png
     - term: 视频下载
       links:
+        - title: 美剧迷
+          url: https://www.meijumi.net/
+          logo: https://api.iowen.cn/favicon/www.meijumi.net.png
+          description: 美剧下载站
         - title: 音范丝
           url: https://www.yinfans.net/
           logo: https://www.yinfans.me/wp-content/themes/Loos2/images/favicon.ico
@@ -861,10 +865,6 @@
           url: https://bgmlist.com
           description: 
           logo: https://api.iowen.cn/favicon/bgmlist.com.png
-        - title: 哔哩哔哩
-          url: http://www.bilibili.com
-          description: 
-          logo: https://api.iowen.cn/favicon/www.bilibili.com.png
         - title: 动漫屋
           url: http://www.dm5.com
           description: 
@@ -1425,6 +1425,28 @@
           description: 
           title: CdnJs
           logo: cdnjs.webp
+    - term: 数据库
+      links:
+        - title: bit
+          description: 免费数据库
+          logo: https://api.iowen.cn/favicon/bit.io.png
+          url: https://bit.io/
+        - title: Supabase
+          description: 免费数据库
+          logo: https://api.iowen.cn/favicon/supabase.com.png
+          url: https://supabase.com/
+        - title: Planetscale
+          description: 免费数据库
+          logo: https://api.iowen.cn/favicon/planetscale.com.png
+          url: https://planetscale.com/
+        - title: Upstash
+          description: 🔝免费数据库
+          logo: https://api.iowen.cn/favicon/upstash.com.png
+          url: https://console.upstash.com/
+        - title: MongoDb
+          description: 🔝免费数据库
+          logo: https://api.iowen.cn/favicon/www.mongodb.com.png
+          url: https://www.mongodb.com
     - term: 代码学习
       links:
         - url: http://www.w3school.com.cn/
