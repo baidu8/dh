@@ -1,12 +1,12 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 常用
   icon: far fa-star
   links: 
-    - title: SSS
-      description: 下载Instagram照片,视频,故事,IGTV,REELS
-      url: https://sssinstagram.com/zh
-      logo: https://sssinstagram.com/favicon/favicon-48x48.png
+    - url: https://snapvid.net/
+      description: TikTok,Instagram,Facebook,推特，视频下载器
+      title: SnapVid
+      logo: 
     - url: https://www.upyunso.com
       description: 阿里云
       title: UP云搜
@@ -23,10 +23,10 @@
       description: B站视频下载
       title: 贝贝BiliBili
       logo: https://www.bilibili.com/favicon.ico
-    - title: 部落冲突
+    - title: 部落驿站
       description: 部落冲突指导，升级数据与软件下载
-      url: https://www.cocservice.top/update
-      logo: https://www.cocservice.top/favicon.ico
+      url: https://www.clashpost.com/
+      logo: https://static.clashpost.com/favicon.ico
     - title: 部落冲突
       description: 官网
       url: https://clashofclans.com/zh/
@@ -63,6 +63,90 @@
       logo: mdx.png
       url: https://mdx.ncbix.com/
       description: Markdown 排版利器，Md2All 定制版。
+
+- taxonomy: 新增
+  icon: far fa-bell
+  links: 
+    - term: ai相关
+      links:
+        - title: chatgpt合集
+          url: https://www.magicalsearch.top/chatgpt
+          description: chatgpt合集
+          logo: 
+        - title: AIchatOS
+          url: https://dev.yqcloud.top/
+          description: 良心网站,免费使用,建议给作者打赏,备用的chat18,aichatos,xyz
+          logo: AIchatOS.svg
+        - title: AI cube
+          url: https://cube.waixingyun.cn/
+          description: AI画图,登录以及收费
+          logo: 
+        - title: 触手AI
+          url: https://douchu.ai/
+          description: AI画图,登录以及收费,有免费体验额度
+          logo: 
+    - term: 官网
+      links:
+        - title: 漫威迷
+          url: https://www.manweimi.cn/
+          description: 从这里了解更多漫威新鲜事
+          logo: https://www.manweimi.cn/favicon.ico
+        - title: Wikihow
+          url: https://zh.wikihow.com/
+          description: 值得信赖的互联网维基百科
+          logo: https://www.wikihow.com/skins/WikiHow/wH-initials_152x152.png
+        - title: 全历史
+          url: https://www.allhistory.com/
+          description: 以AI知识图谱为核心引擎，通过高度时空化、关联化数据的方式构造及展现数字人文内容
+          logo: https://www.allhistory.com/favicon.ico
+        - title: iptv
+          url: https://iptv-org.github.io/
+          description: 电视m3u8收集
+          logo: https://iptv-org.github.io/favicon.png
+        - title: 天空有多高
+          url: http://www.secaibi.com/howbigisspace/
+          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/tiankong.png
+          description: 用网页滚动形式展示了从地球到宇宙深空的距离
+        - title: 千亿像素看中国
+          url: http://www.bigpixel.cn/
+          logo: 
+          description: 世界之美, 记录细节！
+        - title: 天空之城
+          url: https://www.skypixel.com/
+          logo: 
+          description: 全球航拍爱好者和专业摄影师的作品社区
+        - title: 极像素
+          url: https://www.sigoo.com
+          logo: 
+          description: 超高像素看世界
+        - title: 全景720云图
+          url: https://720yun.com/
+          logo: 
+          description: 全景摄影,全景图片
+        - title: 指尖上
+          url: https://www.zhijianshang.com/
+          logo: 
+          description: 海量全面精美的VR全景旅游景点介绍
+        - title: 全景故宫
+          url: https://pano.dpm.org.cn/
+          logo: 
+          description: 全景3D故宫在线
+        - title: 致美化
+          url: https://zhutix.com/
+          description: 最专业的桌面美化交流平台
+          logo: https://dl.zhutix.net/2020/11/2021_x.png
+        - title: 简书
+          url: https://www.jianshu.com/
+          description: 简书是一个优质的创作社区，在这里，你可以任性地创作，一篇短文、一张照片、一首诗、一幅画……我们相信，每个人都是生活中的艺术家，有着无穷的创造力。
+          logo: 
+        - title: 王者荣耀
+          url: https://pvp.qq.com/
+          description: 王者荣耀。。。
+          logo: https://pvp.qq.com/favicon.ico
+        - title: handsome社区
+          url: https://auth.ihewro.com/
+          description: handsome用户中心
+          logo: 
 
 - taxonomy: 视频相关
   icon: far fa-play-circle
@@ -119,6 +203,10 @@
           description: B站视频下载
           title: 贝贝BiliBili
           logo: https://www.bilibili.com/favicon.ico
+        - url: https://snapvid.net/
+          description: TikTok,Instagram,Facebook,推特，视频下载器
+          title: SnapVid
+          logo: 
         - title: SSS
           description: 下载Instagram照片,视频,故事,IGTV,REELS
           url: https://sssinstagram.com/zh
@@ -2707,6 +2795,32 @@
           url: https://www.imooc.com/
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
+    - term: 生物信息
+      links:
+        - title: NCBI
+          logo: ncbi.jpg
+          url: https://www.ncbi.nlm.nih.gov/
+          description: National Center for Biotechnology Information.
+        - title: Bioconda
+          logo: bioconda.jpg
+          url: https://anaconda.org/bioconda/
+          description: "Bioconda :: Anaconda.org."
+        - title: CPAN
+          logo: cpan.jpg
+          url: https://metacpan.org/
+          description: Search the CPAN.
+        - title: Gitter Galaxy
+          logo: gitter.jpg
+          url: https://gitter.im/galaxyproject
+          description: Galaxy Gitter Community.
+        - title: R Project
+          logo: r-project.jpg
+          url: https://www.r-project.org/
+          description: https://www.r-project.org
+        - title: Bioconductor
+          logo: bioconductor.jpg
+          url: http://www.bioconductor.org/
+          description: http://www.bioconductor.org
 
 - taxonomy: 娱乐游戏
   icon: fas fa-dice-d20 fa-lg
@@ -2733,18 +2847,6 @@
           url: https://cantelope.org/
           description: 各种好玩的项目
           logo: https://cantelope.org/favicon.ico
-        - title: FORCHANGE AI EDU
-          url: https://chat.forchange.cn/
-          description: ai聊天
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/haowaanskewq.png
-        - title: ai聊天
-          url: https://qkongtao.cn/chatgpt/
-          description: ai聊天
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/haowaanskewq.png
-        - title: ai聊天
-          url: http://ai.d8bi.cn/
-          description: 这个挺好用的，貌似要收费了。。。
-          logo: https://fastly.jsdelivr.net/gh/baidu8/bing/img/haowaanskewq.png
     - term: 在线游戏
       links:
         - title: 自由钢琴
@@ -2865,97 +2967,3 @@
           url: https://www.jspoo.com/
           description: 网址导航-超实用的资源网站
           logo: 
-
-    - term: 未分类
-      links:
-        - title: 漫威迷
-          url: https://www.manweimi.cn/
-          description: 从这里了解更多漫威新鲜事
-          logo: https://www.manweimi.cn/favicon.ico
-        - title: Wikihow
-          url: https://zh.wikihow.com/
-          description: 值得信赖的互联网维基百科
-          logo: https://www.wikihow.com/skins/WikiHow/wH-initials_152x152.png
-        - title: 全历史
-          url: https://www.allhistory.com/
-          description: 以AI知识图谱为核心引擎，通过高度时空化、关联化数据的方式构造及展现数字人文内容
-          logo: https://www.allhistory.com/favicon.ico
-        - title: iptv
-          url: https://iptv-org.github.io/
-          description: 电视m3u8收集
-          logo: https://iptv-org.github.io/favicon.png
-        - title: 天空有多高
-          url: http://www.secaibi.com/howbigisspace/
-          logo: https://fastly.jsdelivr.net/gh/lmm214/images/logos/tiankong.png
-          description: 用网页滚动形式展示了从地球到宇宙深空的距离
-        - title: 千亿像素看中国
-          url: http://www.bigpixel.cn/
-          logo: 
-          description: 世界之美, 记录细节！
-        - title: 天空之城
-          url: https://www.skypixel.com/
-          logo: 
-          description: 全球航拍爱好者和专业摄影师的作品社区
-        - title: 极像素
-          url: https://www.sigoo.com
-          logo: 
-          description: 超高像素看世界
-        - title: 全景720云图
-          url: https://720yun.com/
-          logo: 
-          description: 全景摄影,全景图片
-        - title: 指尖上
-          url: https://www.zhijianshang.com/
-          logo: 
-          description: 海量全面精美的VR全景旅游景点介绍
-        - title: 全景故宫
-          url: https://pano.dpm.org.cn/
-          logo: 
-          description: 全景3D故宫在线
-        - title: 致美化
-          url: https://zhutix.com/
-          description: 最专业的桌面美化交流平台
-          logo: https://dl.zhutix.net/2020/11/2021_x.png
-        - title: CodePen
-          url: https://codepen.io/
-          description: 在线代码编辑器和前端 Web 开发者社区
-          logo: https://cpwebassets.codepen.io/assets/favicon/favicon-touch-de50acbf5d634ec6791894eba4ba9cf490f709b3d742597c6fc4b734e6492a5a.png
-        - title: 简书
-          url: https://www.jianshu.com/
-          description: 简书是一个优质的创作社区，在这里，你可以任性地创作，一篇短文、一张照片、一首诗、一幅画……我们相信，每个人都是生活中的艺术家，有着无穷的创造力。
-          logo: 
-        - title: 王者荣耀
-          url: https://pvp.qq.com/
-          description: 王者荣耀。。。
-          logo: https://pvp.qq.com/favicon.ico
-        - title: handsome社区
-          url: https://auth.ihewro.com/
-          description: handsome用户中心
-          logo: 
-
-    - term: 生物信息
-      links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Gitter Galaxy
-          logo: gitter.jpg
-          url: https://gitter.im/galaxyproject
-          description: Galaxy Gitter Community.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
