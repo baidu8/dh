@@ -1,4 +1,4 @@
-#baseURL               = "https://nav.uusb.cf"
+#baseURL               = "https://nav.alyun.vip"
 languageCode          = "zh-CN"
 title                 = "江小白导航"
 theme                 = "WebStack"
@@ -29,7 +29,7 @@ hasCJKLanguage        = true
     key = "085791e805a24491b43b06cf58ab31e7" # Q天气
 
 [params.images]
-    favicon           = "https://www.uusb.cf/img/favicon.png"
+    favicon           = "https://www.alyun.vip/img/favicon.png"
     searchImageL      = "assets/images/bg-dna.jpg"		#搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dna.jpg"		#搜索部分深色背景图
     logoExpandLight   = "assets/images/bt8-expand-light.png"
