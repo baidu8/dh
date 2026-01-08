@@ -1,10 +1,10 @@
-- item: 首页
-  icon: fa fa-home
-  link: "./"
+# - item: 首页
+#   icon: fa fa-home
+#   link: "./"
 
 - item: 博客
   icon: fa fa-blog
-  link: "https://alyun.vip"
+  link: "https://baidu8.github.io/"
 
 # - item: 配置
 #   icon: fa fa-cog
